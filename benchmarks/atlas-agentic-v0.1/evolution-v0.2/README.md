@@ -4,6 +4,10 @@ A separate continuation of the Atlas benchmark pilot, licensed Apache 2.0 under 
 
 Four opaque case IDs, twelve stage decisions: funding clean→material→clean; unknown→material→clean; clean→clean→clean control; material→unknown→clean after a funding confirmation is withdrawn. Each current document supersedes its predecessors. The runner passes only observed evidence/history to the model, never grades or future documents. Labels remain public, so this is not a leakage-resistant benchmark.
 
+## Live Kaggle validation
+
+[Separate evolution task](https://www.kaggle.com/benchmarks/tasks/ahmedalaahassan/atlas-evidence-evolution-v0-2): Gemini 3.7 Flash, SDK 0.6.1, one run, twelve stages completed/passed and Brier 0.0. See live-run-summary.json; the full artifact remains in Kaggle notebook output. First-case usage is not the whole-run cost.
+
 ## Reproduce
 
 ```sh

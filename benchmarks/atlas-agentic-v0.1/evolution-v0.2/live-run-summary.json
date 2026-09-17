@@ -1,0 +1,19 @@
+{
+  "source": "Kaggle notebook output observed in browser",
+  "model": "Gemini 3.7 Flash",
+  "sdk_version": "0.6.1",
+  "corpus_sha256": "ee42e1d668a12b11ef3706d46da638cb0c49153fff96f34aa9b98bbfac63834b",
+  "stage_count": 12,
+  "completed_count": 12,
+  "failed_count": 0,
+  "pass_rate": 1.0,
+  "mean_brier_completed_only": 0.0,
+  "first_case_chat_usage": {
+    "input_tokens": 1443,
+    "output_tokens": 1034,
+    "input_tokens_cost_nanodollars": 1082250,
+    "output_tokens_cost_nanodollars": 3877500,
+    "total_backend_latency_ms": 4930
+  },
+  "limits": "One public development run. First-case usage is not total run cost. Raw full-stage artifact remains in Kaggle notebook output; this summary is transcribed, not a downloaded raw trace."
+}
