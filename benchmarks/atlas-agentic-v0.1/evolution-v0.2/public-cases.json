@@ -1,0 +1,194 @@
+[
+  {
+    "case_id": "AT-E201",
+    "family": "funding-version-update",
+    "stages": [
+      {
+        "stage": 0,
+        "document": {
+          "id": "AT-E201/funding@T0",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 220. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E201/funding@T0"
+          ]
+        }
+      },
+      {
+        "stage": 1,
+        "document": {
+          "id": "AT-E201/funding@T1",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 150. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "material",
+          "value": 50,
+          "evidence_ids": [
+            "AT-E201/funding@T1"
+          ]
+        }
+      },
+      {
+        "stage": 2,
+        "document": {
+          "id": "AT-E201/funding@T2",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 240. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E201/funding@T2"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "AT-E202",
+    "family": "funding-version-update",
+    "stages": [
+      {
+        "stage": 0,
+        "document": {
+          "id": "AT-E202/funding@T0",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: unknown; prior confirmation withdrawn. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "insufficient_evidence",
+          "value": null,
+          "evidence_ids": [
+            "AT-E202/funding@T0"
+          ]
+        }
+      },
+      {
+        "stage": 1,
+        "document": {
+          "id": "AT-E202/funding@T1",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 150. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "material",
+          "value": 50,
+          "evidence_ids": [
+            "AT-E202/funding@T1"
+          ]
+        }
+      },
+      {
+        "stage": 2,
+        "document": {
+          "id": "AT-E202/funding@T2",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 240. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E202/funding@T2"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "AT-E203",
+    "family": "funding-version-update",
+    "stages": [
+      {
+        "stage": 0,
+        "document": {
+          "id": "AT-E203/funding@T0",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 220. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E203/funding@T0"
+          ]
+        }
+      },
+      {
+        "stage": 1,
+        "document": {
+          "id": "AT-E203/funding@T1",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 230. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E203/funding@T1"
+          ]
+        }
+      },
+      {
+        "stage": 2,
+        "document": {
+          "id": "AT-E203/funding@T2",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 240. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E203/funding@T2"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "AT-E204",
+    "family": "funding-version-update",
+    "stages": [
+      {
+        "stage": 0,
+        "document": {
+          "id": "AT-E204/funding@T0",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 150. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "material",
+          "value": 50,
+          "evidence_ids": [
+            "AT-E204/funding@T0"
+          ]
+        }
+      },
+      {
+        "stage": 1,
+        "document": {
+          "id": "AT-E204/funding@T1",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: unknown; prior confirmation withdrawn. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "insufficient_evidence",
+          "value": null,
+          "evidence_ids": [
+            "AT-E204/funding@T1"
+          ]
+        }
+      },
+      {
+        "stage": 2,
+        "document": {
+          "id": "AT-E204/funding@T2",
+          "text": "Required acquisition funding: 200 synthetic units. Current verified available funding: 240. This version supersedes all earlier funding confirmations."
+        },
+        "oracle": {
+          "status": "clean",
+          "value": 0,
+          "evidence_ids": [
+            "AT-E204/funding@T2"
+          ]
+        }
+      }
+    ]
+  }
+]
