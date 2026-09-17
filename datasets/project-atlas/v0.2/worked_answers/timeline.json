@@ -1,0 +1,117 @@
+[
+  {
+    "id": "CHANGE-T0",
+    "stage": "T0",
+    "document_id": "TIMELINE-v1",
+    "evidence_id": "E-TIMELINE-v1",
+    "energization": "2027-03-01",
+    "gpu_units": 2048,
+    "committed_capex_usd": 50000000,
+    "available_funding_usd": 50000000,
+    "termination_threshold": "2027-04-01",
+    "expected": {
+      "deployment_delay_days": 0,
+      "funding_gap_usd": 0,
+      "offtake_threshold_exceeded": false
+    },
+    "affected_domains": [
+      "power",
+      "gpu",
+      "offtake",
+      "funding"
+    ],
+    "causality": "Contract and milestone dependency illustration; specialist approval needed before financial interpretation."
+  },
+  {
+    "id": "CHANGE-T1",
+    "stage": "T1",
+    "document_id": "TIMELINE-v2",
+    "evidence_id": "E-TIMELINE-v2",
+    "energization": "2027-06-01",
+    "gpu_units": 2048,
+    "committed_capex_usd": 50000000,
+    "available_funding_usd": 50000000,
+    "termination_threshold": "2027-04-01",
+    "expected": {
+      "deployment_delay_days": 92,
+      "funding_gap_usd": 0,
+      "offtake_threshold_exceeded": true
+    },
+    "affected_domains": [
+      "power",
+      "gpu",
+      "offtake",
+      "funding"
+    ],
+    "causality": "Contract and milestone dependency illustration; specialist approval needed before financial interpretation."
+  },
+  {
+    "id": "CHANGE-T2",
+    "stage": "T2",
+    "document_id": "TIMELINE-v3",
+    "evidence_id": "E-TIMELINE-v3",
+    "energization": "2027-06-01",
+    "gpu_units": 2048,
+    "committed_capex_usd": 60000000,
+    "available_funding_usd": 50000000,
+    "termination_threshold": "2027-04-01",
+    "expected": {
+      "deployment_delay_days": 92,
+      "funding_gap_usd": 10000000,
+      "offtake_threshold_exceeded": true
+    },
+    "affected_domains": [
+      "power",
+      "gpu",
+      "offtake",
+      "funding"
+    ],
+    "causality": "Contract and milestone dependency illustration; specialist approval needed before financial interpretation."
+  },
+  {
+    "id": "CHANGE-T3",
+    "stage": "T3",
+    "document_id": "TIMELINE-v4",
+    "evidence_id": "E-TIMELINE-v4",
+    "energization": "2027-06-01",
+    "gpu_units": 2048,
+    "committed_capex_usd": 60000000,
+    "available_funding_usd": 50000000,
+    "termination_threshold": "2027-07-01",
+    "expected": {
+      "deployment_delay_days": 92,
+      "funding_gap_usd": 10000000,
+      "offtake_threshold_exceeded": false
+    },
+    "affected_domains": [
+      "power",
+      "gpu",
+      "offtake",
+      "funding"
+    ],
+    "causality": "Contract and milestone dependency illustration; specialist approval needed before financial interpretation."
+  },
+  {
+    "id": "CHANGE-T4",
+    "stage": "T4",
+    "document_id": "TIMELINE-v5",
+    "evidence_id": "E-TIMELINE-v5",
+    "energization": "2027-06-01",
+    "gpu_units": 2048,
+    "committed_capex_usd": 60000000,
+    "available_funding_usd": 65000000,
+    "termination_threshold": "2027-07-01",
+    "expected": {
+      "deployment_delay_days": 92,
+      "funding_gap_usd": 0,
+      "offtake_threshold_exceeded": false
+    },
+    "affected_domains": [
+      "power",
+      "gpu",
+      "offtake",
+      "funding"
+    ],
+    "causality": "Contract and milestone dependency illustration; specialist approval needed before financial interpretation."
+  }
+]

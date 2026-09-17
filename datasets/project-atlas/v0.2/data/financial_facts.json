@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ECON-base",
+    "utilization_basis_points": 6500,
+    "power_price_per_kwh_cents": 12,
+    "revenue_cents": 287539200,
+    "power_cents": 22118400,
+    "cogs_cents": 72118400,
+    "support_cents": 20000000,
+    "contribution_margin_cents": 195420800,
+    "margin_basis_points": 6796,
+    "payback_days_proxy": 47,
+    "scope": "Standalone forward monthly pool economics; not reconciled to historical books, not GAAP gross margin or depreciation accounting."
+  },
+  {
+    "id": "ECON-low_utilization",
+    "utilization_basis_points": 1000,
+    "power_price_per_kwh_cents": 12,
+    "revenue_cents": 44236800,
+    "power_cents": 22118400,
+    "cogs_cents": 72118400,
+    "support_cents": 20000000,
+    "contribution_margin_cents": -47881600,
+    "margin_basis_points": -10824,
+    "payback_days_proxy": null,
+    "scope": "Standalone forward monthly pool economics; not reconciled to historical books, not GAAP gross margin or depreciation accounting."
+  },
+  {
+    "id": "ECON-high_power_cost",
+    "utilization_basis_points": 6500,
+    "power_price_per_kwh_cents": 30,
+    "revenue_cents": 287539200,
+    "power_cents": 55296000,
+    "cogs_cents": 105296000,
+    "support_cents": 20000000,
+    "contribution_margin_cents": 162243200,
+    "margin_basis_points": 5642,
+    "payback_days_proxy": 56,
+    "scope": "Standalone forward monthly pool economics; not reconciled to historical books, not GAAP gross margin or depreciation accounting."
+  }
+]

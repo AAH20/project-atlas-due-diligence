@@ -1,0 +1,12 @@
+{
+  "gpu_units": 2048,
+  "price_per_gpu_hour_cents": 300,
+  "hours_per_month": 720,
+  "utilization_basis_points": 6500,
+  "power_kw_per_gpu": 1,
+  "pue_basis_points": 12500,
+  "power_price_per_kwh_cents": 12,
+  "monthly_gpu_cost_cents": 50000000,
+  "monthly_support_cents": 20000000,
+  "customer_acquisition_cost_cents": 300000000
+}

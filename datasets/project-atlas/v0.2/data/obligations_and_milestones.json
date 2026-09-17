@@ -1,0 +1,26 @@
+[
+  {
+    "id": "OB-01",
+    "entity_id": "ENT-SITE",
+    "due": "2027-03-01",
+    "description": "Validate deployment feasibility against conditional utility target",
+    "owner_role": "administrator",
+    "status": "requires_review"
+  },
+  {
+    "id": "OB-02",
+    "entity_id": "ENT-GPU",
+    "due": "2027-02-01",
+    "description": "Confirm procurement payment, delivery and acceptance obligations",
+    "owner_role": "administrator",
+    "status": "requires_review"
+  },
+  {
+    "id": "OB-03",
+    "entity_id": "ENT-HOLD",
+    "due": "2027-04-01",
+    "description": "Obtain specialist review of offtake termination terms",
+    "owner_role": "administrator",
+    "status": "requires_review"
+  }
+]

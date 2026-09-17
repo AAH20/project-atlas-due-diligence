@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CASE-REVENUE-M",
+    "domain": "revenue",
+    "task": "Assess signed customer commitments and recognized revenue. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-REVENUE-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-REVENUE-C",
+    "domain": "revenue",
+    "task": "Assess signed customer commitments and recognized revenue. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-REVENUE-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-REVENUE-A",
+    "domain": "revenue",
+    "task": "Assess signed customer commitments and recognized revenue. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-REVENUE-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-EARNINGS-M",
+    "domain": "earnings",
+    "task": "Assess EBITDA reconciliation and supportable adjustments. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-EARNINGS-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-EARNINGS-C",
+    "domain": "earnings",
+    "task": "Assess EBITDA reconciliation and supportable adjustments. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-EARNINGS-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-EARNINGS-A",
+    "domain": "earnings",
+    "task": "Assess EBITDA reconciliation and supportable adjustments. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-EARNINGS-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-POWER-M",
+    "domain": "power",
+    "task": "Assess utility conditions and energization milestones. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-POWER-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-POWER-C",
+    "domain": "power",
+    "task": "Assess utility conditions and energization milestones. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-POWER-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-POWER-A",
+    "domain": "power",
+    "task": "Assess utility conditions and energization milestones. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-POWER-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-GPU-M",
+    "domain": "gpu",
+    "task": "Assess delivery, acceptance and procurement obligations. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-GPU-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-GPU-C",
+    "domain": "gpu",
+    "task": "Assess delivery, acceptance and procurement obligations. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-GPU-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-GPU-A",
+    "domain": "gpu",
+    "task": "Assess delivery, acceptance and procurement obligations. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-GPU-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-OFFTAKE-M",
+    "domain": "offtake",
+    "task": "Assess executed terms and commercial representations. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-OFFTAKE-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-OFFTAKE-C",
+    "domain": "offtake",
+    "task": "Assess executed terms and commercial representations. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-OFFTAKE-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-OFFTAKE-A",
+    "domain": "offtake",
+    "task": "Assess executed terms and commercial representations. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-OFFTAKE-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-FUNDING-M",
+    "domain": "funding",
+    "task": "Assess cash commitments and available funding. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-FUNDING-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-FUNDING-C",
+    "domain": "funding",
+    "task": "Assess cash commitments and available funding. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-FUNDING-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-FUNDING-A",
+    "domain": "funding",
+    "task": "Assess cash commitments and available funding. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-FUNDING-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-TITLE-M",
+    "domain": "title",
+    "task": "Assess asset title and collateral records. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-TITLE-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-TITLE-C",
+    "domain": "title",
+    "task": "Assess asset title and collateral records. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-TITLE-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-TITLE-A",
+    "domain": "title",
+    "task": "Assess asset title and collateral records. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-TITLE-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-IP-M",
+    "domain": "ip",
+    "task": "Assess product claims and contractor assignments. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-IP-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-IP-C",
+    "domain": "ip",
+    "task": "Assess product claims and contractor assignments. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-IP-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-IP-A",
+    "domain": "ip",
+    "task": "Assess product claims and contractor assignments. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-IP-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-CYBER-M",
+    "domain": "cyber",
+    "task": "Assess network paths, identity and remediation. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-CYBER-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-CYBER-C",
+    "domain": "cyber",
+    "task": "Assess network paths, identity and remediation. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-CYBER-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-CYBER-A",
+    "domain": "cyber",
+    "task": "Assess network paths, identity and remediation. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-CYBER-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-PRIVACY-M",
+    "domain": "privacy",
+    "task": "Assess processing inventory and transfer authority. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-PRIVACY-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-PRIVACY-C",
+    "domain": "privacy",
+    "task": "Assess processing inventory and transfer authority. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-PRIVACY-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-PRIVACY-A",
+    "domain": "privacy",
+    "task": "Assess processing inventory and transfer authority. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-PRIVACY-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-CONCENTRATION-M",
+    "domain": "concentration",
+    "task": "Assess customer dependencies and continuity plans. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-CONCENTRATION-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-CONCENTRATION-C",
+    "domain": "concentration",
+    "task": "Assess customer dependencies and continuity plans. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-CONCENTRATION-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-CONCENTRATION-A",
+    "domain": "concentration",
+    "task": "Assess customer dependencies and continuity plans. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-CONCENTRATION-A-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-GOVERNANCE-M",
+    "domain": "governance",
+    "task": "Assess related parties and approval records. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-GOVERNANCE-M-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-GOVERNANCE-C",
+    "domain": "governance",
+    "task": "Assess related parties and approval records. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-GOVERNANCE-C-v1"
+    ],
+    "stage": "T0"
+  },
+  {
+    "id": "CASE-GOVERNANCE-A",
+    "domain": "governance",
+    "task": "Assess related parties and approval records. Cite evidence, distinguish facts from assumptions, and identify necessary specialist review.",
+    "document_ids": [
+      "CASE-GOVERNANCE-A-v1"
+    ],
+    "stage": "T0"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ENT-HOLD",
+    "name": "Atlas Compute Holdings (fictional)",
+    "type": "holding_company",
+    "parent_id": null,
+    "ownership_pct": null
+  },
+  {
+    "id": "ENT-SITE",
+    "name": "Atlas Site One SPV (fictional)",
+    "type": "site_spv",
+    "parent_id": "ENT-HOLD",
+    "ownership_pct": 100
+  },
+  {
+    "id": "ENT-GPU",
+    "name": "Atlas GPU Assets SPV (fictional)",
+    "type": "asset_spv",
+    "parent_id": "ENT-HOLD",
+    "ownership_pct": 100
+  }
+]

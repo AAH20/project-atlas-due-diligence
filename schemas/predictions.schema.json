@@ -1,0 +1,18 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"Atlas v0.2 public diagnostic predictions",
+  "type":"array",
+  "items":{
+    "type":"object",
+    "required":["case_id","status","evidence_ids"],
+    "properties":{
+      "case_id":{"type":"string","pattern":"^CASE-[A-Z]+-[MCA]$"},
+      "status":{"enum":["material","clean","insufficient_evidence"]},
+      "evidence_ids":{"type":"array","uniqueItems":true,"items":{"type":"string"}},
+      "explanation":{"type":"string"},
+      "calculation":{"type":"object"},
+      "review_request":{"type":"string"}
+    },
+    "additionalProperties":false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "currency": "USD",
+  "money_unit": "integer_cents",
+  "months": 24,
+  "entities": 3,
+  "tax": "excluded",
+  "fx": "excluded",
+  "intercompany": "excluded; no intercompany transactions generated",
+  "leases": "not accounted for; scenario requires specialist review",
+  "history": "simplified separate-entity historical books; scenario excerpts are independent test exercises, not postings to these books"
+}

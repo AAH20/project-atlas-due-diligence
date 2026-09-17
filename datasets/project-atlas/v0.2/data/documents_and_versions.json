@@ -1,0 +1,622 @@
+[
+  {
+    "id": "CASE-REVENUE-M-v1",
+    "path": "vdr/CASE-REVENUE-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "40145aeee6530dc9d90693c3bfb9b5407f7946f51028769cb023e9ee628cbda7"
+  },
+  {
+    "id": "CASE-REVENUE-C-v1",
+    "path": "vdr/CASE-REVENUE-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "c4abab276e8067efdaba3cedfffb71e67a96543decd4a1c518b3673d1a2868f4"
+  },
+  {
+    "id": "CASE-REVENUE-A-v1",
+    "path": "vdr/CASE-REVENUE-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "c00316481996b03e2dd2c2e586b41759e3835705d28715449af6d3b52c55e7b4"
+  },
+  {
+    "id": "CASE-EARNINGS-M-v1",
+    "path": "vdr/CASE-EARNINGS-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "2654393191efbab1c36fcbf54bc5e381d5ca570e4304cec5d7e1c67cd1746085"
+  },
+  {
+    "id": "CASE-EARNINGS-C-v1",
+    "path": "vdr/CASE-EARNINGS-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "91d1b6d6edf6dca848c169876133e3af22d456a7e9605be95d8c7ede3699ee6b"
+  },
+  {
+    "id": "CASE-EARNINGS-A-v1",
+    "path": "vdr/CASE-EARNINGS-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "b5cb852f2640a3899c7aa88b3799496ed23c50ec156d4b17aa8dad05cf5634ed"
+  },
+  {
+    "id": "CASE-POWER-M-v1",
+    "path": "vdr/CASE-POWER-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "4d87be7f72f4f5bed94c4d89a7475f956498b79a813c09542c8106353c235368"
+  },
+  {
+    "id": "CASE-POWER-C-v1",
+    "path": "vdr/CASE-POWER-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "dc3693e8b0538517e07734d447bc10db5f9d07937fed087829816f5dc4944d77"
+  },
+  {
+    "id": "CASE-POWER-A-v1",
+    "path": "vdr/CASE-POWER-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "3b021320b4795c872acb836d05433b2acf782569edbd3a17adcf351f8c877669"
+  },
+  {
+    "id": "CASE-GPU-M-v1",
+    "path": "vdr/CASE-GPU-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "e582a5f124571bd6e32fdeb389027768d6ba58b0e67e80eb0f19a7665a9b5057"
+  },
+  {
+    "id": "CASE-GPU-C-v1",
+    "path": "vdr/CASE-GPU-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "4dea4652457784e7ef209e92da50f383317ed791cf2055a3fe13762cfbfbdc67"
+  },
+  {
+    "id": "CASE-GPU-A-v1",
+    "path": "vdr/CASE-GPU-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "9742b505b46c0c30dc98728b37fee9d3c9a37b476a0e8f93cc55de274f429ac5"
+  },
+  {
+    "id": "CASE-OFFTAKE-M-v1",
+    "path": "vdr/CASE-OFFTAKE-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "b380129353eb781af7bd788a6ade5915218c53ca2fac4a3c5ed55ebe7376c786"
+  },
+  {
+    "id": "CASE-OFFTAKE-C-v1",
+    "path": "vdr/CASE-OFFTAKE-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "74932df171b09a2c98a066f23bcee79beec1e58fc2c03a8d7a03c32b8fb74867"
+  },
+  {
+    "id": "CASE-OFFTAKE-A-v1",
+    "path": "vdr/CASE-OFFTAKE-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "7e7143ee7925b690d1821c286450baf8b93b3612c9cde365737ca88e28805656"
+  },
+  {
+    "id": "CASE-FUNDING-M-v1",
+    "path": "vdr/CASE-FUNDING-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "5b34e73a51a703859a8b35fcb50fff6effcefcfb23bed4df5ad4d720033a63b3"
+  },
+  {
+    "id": "CASE-FUNDING-C-v1",
+    "path": "vdr/CASE-FUNDING-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "6c0c97686db12037991ac704cc0d204a977477566d5bb0623db4800423c24873"
+  },
+  {
+    "id": "CASE-FUNDING-A-v1",
+    "path": "vdr/CASE-FUNDING-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "ebd2ba3329d609dbb41ac71502a790aa2c86ee7d018ea35b6cc7854a68736713"
+  },
+  {
+    "id": "CASE-TITLE-M-v1",
+    "path": "vdr/CASE-TITLE-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "40e4330f487704f424fdddcc439031de9e197a5d0b8463c86242508f3065918a"
+  },
+  {
+    "id": "CASE-TITLE-C-v1",
+    "path": "vdr/CASE-TITLE-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "7d0d91672ee1515239b0a8c8c375cc97477a29deb9400d2da276cf9a26670624"
+  },
+  {
+    "id": "CASE-TITLE-A-v1",
+    "path": "vdr/CASE-TITLE-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "95d2ba9b857515ac99f9d76688cc5e7c3829e8c318aa40b679bae7c70f6baba2"
+  },
+  {
+    "id": "CASE-IP-M-v1",
+    "path": "vdr/CASE-IP-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "6d851f86abe060804eb12b81a3a6b3f48deb1ef54b24e4a356728ce44b2c1734"
+  },
+  {
+    "id": "CASE-IP-C-v1",
+    "path": "vdr/CASE-IP-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "8ea3d292c55dd8a0c64b30919f895538644b55be70fd1a67f479521ea4468112"
+  },
+  {
+    "id": "CASE-IP-A-v1",
+    "path": "vdr/CASE-IP-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "18904c02d14de14fa4e768745797b981ba2937b4747f500284f7fcd634868877"
+  },
+  {
+    "id": "CASE-CYBER-M-v1",
+    "path": "vdr/CASE-CYBER-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "21e425922643c2025955382fc98c512b33209849c7be0381990c7093e4e4af1d"
+  },
+  {
+    "id": "CASE-CYBER-C-v1",
+    "path": "vdr/CASE-CYBER-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "37588bd323eb9e601f75ffc093333f41dff3cdf683f9d08d15fb7a512dee966a"
+  },
+  {
+    "id": "CASE-CYBER-A-v1",
+    "path": "vdr/CASE-CYBER-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "44ae167f8ea0cc6cc3f616a3700e458fae55735d84c648af9e05c7e7d7ae2f96"
+  },
+  {
+    "id": "CASE-PRIVACY-M-v1",
+    "path": "vdr/CASE-PRIVACY-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "fddfdba652095792f3350b8233d9114c0932f13dd7acafbc7cb308fe8b9f9073"
+  },
+  {
+    "id": "CASE-PRIVACY-C-v1",
+    "path": "vdr/CASE-PRIVACY-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "4c1b600c3c6a71a817bda5e0706262d95113b15805a3691d902da69daaa3f2c3"
+  },
+  {
+    "id": "CASE-PRIVACY-A-v1",
+    "path": "vdr/CASE-PRIVACY-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "6457e4043759fbf0394cd534f1898d13d1516c6a3d116878c9596b8f7d4f078e"
+  },
+  {
+    "id": "CASE-CONCENTRATION-M-v1",
+    "path": "vdr/CASE-CONCENTRATION-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "aec9bceb7418121304e427b61d32bfe25e1ce2fd1ca81775a2767cd449bd948a"
+  },
+  {
+    "id": "CASE-CONCENTRATION-C-v1",
+    "path": "vdr/CASE-CONCENTRATION-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "75f98618a2f5d89ac6f9ff6a056140ffe12bcaa98dd7cdd00d0f09376e100f9b"
+  },
+  {
+    "id": "CASE-CONCENTRATION-A-v1",
+    "path": "vdr/CASE-CONCENTRATION-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "fd77ef59858a0da0efa042fbd7caa5c5906bf2a26801b88156214244f0866adf"
+  },
+  {
+    "id": "CASE-GOVERNANCE-M-v1",
+    "path": "vdr/CASE-GOVERNANCE-M-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "7a314a083696f9fb75f57010b0dfa31978d24853ea8aa1db7a2f0002338546a6"
+  },
+  {
+    "id": "CASE-GOVERNANCE-C-v1",
+    "path": "vdr/CASE-GOVERNANCE-C-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "2002bb77d4db7a7e0125a827a8a5090278ab017ab20718252fcb9a93953b5b71"
+  },
+  {
+    "id": "CASE-GOVERNANCE-A-v1",
+    "path": "vdr/CASE-GOVERNANCE-A-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "29d823dab42df4d4ca46c009dee1fc8af32230af8b8a459a442babdc80b8ae62"
+  },
+  {
+    "id": "TIMELINE-v1",
+    "path": "vdr/TIMELINE-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "administrator"
+    ],
+    "sha256": "0afc6952f4ddcd3c055672335f4707fa29c5c419bb73eceea75f057b9eaff2f4"
+  },
+  {
+    "id": "TIMELINE-v2",
+    "path": "vdr/TIMELINE-v2.md",
+    "stage": "T1",
+    "version": 2,
+    "supersedes": "TIMELINE-v1",
+    "roles": [
+      "buyer",
+      "lender",
+      "administrator"
+    ],
+    "sha256": "c040c9138463869b39362e66c708149ebbd261ff4dd759dd0e28521b5f368502"
+  },
+  {
+    "id": "TIMELINE-v3",
+    "path": "vdr/TIMELINE-v3.md",
+    "stage": "T2",
+    "version": 3,
+    "supersedes": "TIMELINE-v2",
+    "roles": [
+      "buyer",
+      "lender",
+      "administrator"
+    ],
+    "sha256": "1ca828066cffcc56c7d811891a5a15fca8f922938ca1df1cd304d4ef4e2de5c6"
+  },
+  {
+    "id": "TIMELINE-v4",
+    "path": "vdr/TIMELINE-v4.md",
+    "stage": "T3",
+    "version": 4,
+    "supersedes": "TIMELINE-v3",
+    "roles": [
+      "buyer",
+      "lender",
+      "administrator"
+    ],
+    "sha256": "98a5ead2a1bf8483bc458a55b0435b04e969a7ec6ac508d293e0507cdffc7a93"
+  },
+  {
+    "id": "TIMELINE-v5",
+    "path": "vdr/TIMELINE-v5.md",
+    "stage": "T4",
+    "version": 5,
+    "supersedes": "TIMELINE-v4",
+    "roles": [
+      "buyer",
+      "lender",
+      "administrator"
+    ],
+    "sha256": "593c362118c28446ed02e765c1b025852496ea85b3f10c6a05c0ad7eee8f5def"
+  },
+  {
+    "id": "PREP-PII-v1",
+    "path": "vdr/PREP-PII-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "administrator"
+    ],
+    "sha256": "88267cd924ace1f27bf0d6e539b3f79e30da9c962df942925d2ec85c29a9eb1e"
+  },
+  {
+    "id": "PREP-INJECTION-v1",
+    "path": "vdr/PREP-INJECTION-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "28cf32df695faa171ed80122f9237c3fff24fee52c1f7a24adc0c5b3d94d8591"
+  },
+  {
+    "id": "PREP-RESTRICTED-v1",
+    "path": "vdr/PREP-RESTRICTED-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "lender",
+      "administrator"
+    ],
+    "sha256": "69f784dc8a822078190f42f5d05cdc3c658c0b2c9bfebd93c69ec33410443a14"
+  },
+  {
+    "id": "PREP-ETL-v1",
+    "path": "vdr/PREP-ETL-v1.md",
+    "stage": "T0",
+    "version": 1,
+    "supersedes": null,
+    "roles": [
+      "buyer",
+      "lender",
+      "engineering",
+      "administrator"
+    ],
+    "sha256": "8d7372c57f2c282e861bd81f729283fcd0e205b9507d5ceeb3a5fec99859088e"
+  }
+]

@@ -8,6 +8,24 @@ A reproducible **v0.1 teaching preview** for a fictional large AI data/infrastru
 
 ## Contents
 
+### Local v0.2 expansion
+
+[Expansion dataset](datasets/project-atlas/v0.2/README.md) adds a separate fictional three-entity acquisition, 36 material/control/insufficient-evidence exercises, 72 monthly entity statements, forward compute economics, a five-stage financing timeline, role/stage fixtures and four commercial reporting samples. v0.1 remains intact; do not combine the two accounting histories. The existing Kaggle dataset remains v0.1; this repository includes the v0.2 expansion.
+
+[Evidence interface](docs/ATLAS_V02_EVIDENCE_INTERFACE.md) · [Evaluation design](docs/ATLAS_V02_EVALUATION.md) · [Commercial scope](docs/ATLAS_V02_COMMERCIAL.md)
+
+Node 22 standard library; no providers or private software required:
+
+```sh
+node packages/atlas-expansion/build.mjs
+node packages/atlas-expansion/validate.mjs
+node --test packages/atlas-expansion/expansion.test.mjs
+```
+
+Public author labels and fixture checks do not establish frontier agent performance or expert realism. Organizer evaluation candidates and their generator are kept outside this public monorepo. The published competition rubric is unchanged.
+
+### v0.1 teaching preview
+
 - 66 versioned Markdown VDR documents spanning corporate, finance, commercial, AI/data/IP, infrastructure, security, privacy, legal, people, tax, environment, deal and post-close evidence.
 - 500 synthetic customers, 4096 GPUs, 1200 employee IDs, 36 monthly group snapshots, 18036 invoice rows and 107358 double-entry ledger lines.
 - 14 worked findings, clean controls, staged T0/T1/T2 updates, synthetic privacy fixtures, a dependency graph and 12 monthly post-close projections.
@@ -50,7 +68,7 @@ Automated arithmetic checks pass; independent expert realism review remains pend
 
 ## Commercial layers
 
-[Offering design](docs/COMMERCIAL_AND_DATASET_DESIGN.md): free public lab; licensed private evaluation packs; Investor OS deal workspace; Scale AI operating cost/reliability layer; A2Z SOC scoped technical/AI/cyber diligence; managed evidence/GRC; separately contracted MSP/MSSP; continuous portfolio BI; custom integrations. These are proposed layers, not claims that all features/services are live. Hero metrics: contribution margin per tenant/deal, COGS, payback and cost per verified material finding.
+[Offering design](docs/COMMERCIAL_AND_DATASET_DESIGN.md): free public lab; licensed private evaluation packs; Scale AI operating cost/reliability layer; A2Z SOC scoped technical/AI/cyber diligence; managed evidence/GRC; separately contracted MSP/MSSP; continuous portfolio BI; custom integrations. These are proposed layers, not claims that all features/services are live. Hero metrics: contribution margin per tenant/deal, COGS, payback and cost per verified material finding.
 
 Scale AI positioning remains: **“CodeCanyon gave you modules. Scale AI makes the system operable.”** No private Scale AI or Investor OS implementation or other private workflow videos are included.
 

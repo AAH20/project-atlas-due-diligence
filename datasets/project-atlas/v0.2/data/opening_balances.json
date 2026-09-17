@@ -1,0 +1,38 @@
+[
+  {
+    "entity_id": "ENT-HOLD",
+    "accounts": {
+      "cash": 1000000000,
+      "ar": 0,
+      "ppe": 2000000000,
+      "accumulated_depreciation": 0,
+      "debt": -1000000000,
+      "equity": -2000000000,
+      "retained_earnings": 0
+    }
+  },
+  {
+    "entity_id": "ENT-SITE",
+    "accounts": {
+      "cash": 1000000000,
+      "ar": 0,
+      "ppe": 2000000000,
+      "accumulated_depreciation": 0,
+      "debt": -1000000000,
+      "equity": -2000000000,
+      "retained_earnings": 0
+    }
+  },
+  {
+    "entity_id": "ENT-GPU",
+    "accounts": {
+      "cash": 1000000000,
+      "ar": 0,
+      "ppe": 2000000000,
+      "accumulated_depreciation": 0,
+      "debt": -1000000000,
+      "equity": -2000000000,
+      "retained_earnings": 0
+    }
+  }
+]

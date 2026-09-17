@@ -1,0 +1,30 @@
+[
+  {
+    "id": "AS-SITE",
+    "entity_id": "ENT-SITE",
+    "type": "site",
+    "capacity_mw": 20
+  },
+  {
+    "id": "AS-GPU",
+    "entity_id": "ENT-GPU",
+    "type": "gpu_pool",
+    "units": 2048,
+    "title_status": "subject_to_review"
+  },
+  {
+    "id": "AS-NET",
+    "entity_id": "ENT-HOLD",
+    "type": "network",
+    "critical_dependencies": [
+      "AS-SITE",
+      "AS-GPU"
+    ]
+  },
+  {
+    "id": "AS-IP",
+    "entity_id": "ENT-HOLD",
+    "type": "software_ip",
+    "title_status": "subject_to_review"
+  }
+]

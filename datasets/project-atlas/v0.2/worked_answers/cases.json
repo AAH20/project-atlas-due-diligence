@@ -1,0 +1,326 @@
+[
+  {
+    "case_id": "CASE-REVENUE-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-REVENUE-M-v1"
+    ],
+    "finding": "$2m recurring classification discrepancy; specialist accounting review required.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-REVENUE-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-REVENUE-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-REVENUE-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-REVENUE-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-EARNINGS-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-EARNINGS-M-v1"
+    ],
+    "finding": "Potential $2m unsupported addback; earnings quality review required.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-EARNINGS-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-EARNINGS-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-EARNINGS-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-EARNINGS-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-POWER-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-POWER-M-v1"
+    ],
+    "finding": "92-day milestone mismatch; delivery impact requires engineering validation.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-POWER-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-POWER-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-POWER-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-POWER-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-GPU-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-GPU-M-v1"
+    ],
+    "finding": "1024 GPUs counted without acceptance support.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-GPU-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-GPU-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-GPU-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-GPU-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-OFFTAKE-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-OFFTAKE-M-v1"
+    ],
+    "finding": "Forecast omits a material termination condition; legal review required.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-OFFTAKE-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-OFFTAKE-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-OFFTAKE-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-OFFTAKE-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-FUNDING-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-FUNDING-M-v1"
+    ],
+    "finding": "$10m documented funding shortfall; uncommitted funding must not be counted.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-FUNDING-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-FUNDING-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-FUNDING-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-FUNDING-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-TITLE-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-TITLE-M-v1"
+    ],
+    "finding": "1024 GPUs pledged despite unencumbered representation; specialist title review required.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-TITLE-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-TITLE-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-TITLE-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-TITLE-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-IP-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-IP-M-v1"
+    ],
+    "finding": "Module M7 assignment unsupported by supplied contract; counsel must assess rights.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-IP-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-IP-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-IP-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-IP-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-CYBER-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-CYBER-M-v1"
+    ],
+    "finding": "Unremediated privileged access exposure; exploitation not established.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-CYBER-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-CYBER-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-CYBER-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-CYBER-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-PRIVACY-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-PRIVACY-M-v1"
+    ],
+    "finding": "Identifiable records lack documented disclosure authority; privacy review required.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-PRIVACY-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-PRIVACY-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-PRIVACY-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-PRIVACY-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-CONCENTRATION-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-CONCENTRATION-M-v1"
+    ],
+    "finding": "70% customer concentration with short termination period; resilience review required.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-CONCENTRATION-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-CONCENTRATION-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-CONCENTRATION-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-CONCENTRATION-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-GOVERNANCE-M",
+    "status": "material",
+    "required_evidence_ids": [
+      "E-CASE-GOVERNANCE-M-v1"
+    ],
+    "finding": "$3m related-party approval evidence gap; do not infer fraud.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-GOVERNANCE-C",
+    "status": "clean",
+    "required_evidence_ids": [
+      "E-CASE-GOVERNANCE-C-v1"
+    ],
+    "finding": "No material discrepancy established by the supplied exercise evidence.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  },
+  {
+    "case_id": "CASE-GOVERNANCE-A",
+    "status": "insufficient_evidence",
+    "required_evidence_ids": [
+      "E-CASE-GOVERNANCE-A-v1"
+    ],
+    "finding": "Request missing evidence; no definitive adverse conclusion supported.",
+    "review_status": "synthetic_author_label_not_expert_adjudicated"
+  }
+]

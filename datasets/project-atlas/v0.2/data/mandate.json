@@ -1,0 +1,27 @@
+{
+  "id": "MANDATE-02",
+  "synthetic": true,
+  "currency": "USD",
+  "valuation_date": "2026-09-01",
+  "buyer": "Fictional Meridian Infrastructure Holdings",
+  "target": "Fictional Atlas Compute Group",
+  "structure": "Proposed share acquisition of HoldCo including two wholly owned SPVs; illustrative $240m enterprise value, $80m debt and $20m cash imply $180m equity value before adjustments.",
+  "decisions": [
+    "proceed",
+    "renegotiate",
+    "conditional_proceed",
+    "request_evidence",
+    "decline"
+  ],
+  "materiality": {
+    "financial_usd": 1000000,
+    "critical_milestone_delay_days": 30,
+    "unauthorized_disclosure": "any"
+  },
+  "constraints": [
+    "Human approval before external disclosure",
+    "No automatic investment or legal decision",
+    "Only released, role-permitted evidence may be used"
+  ],
+  "independence": "Standalone expansion scenario; not an extension of v0.1 historical accounts. Do not combine financial tables between releases."
+}

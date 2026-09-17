@@ -1,0 +1,352 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "68996e24d0666577fbf1da592a768d0c4e56257db838e5dd9a5798c862f1df68",
+    "bytes": 909
+  },
+  {
+    "path": "data/assets.json",
+    "sha256": "901bd677479879d5ccb2097df13f07ccec0dbef44e3811f0f4de070c7f19a218",
+    "bytes": 518
+  },
+  {
+    "path": "data/cases.json",
+    "sha256": "08c830d4c137e814294052e1d9fd9a571b3d179238abb905a679a2d01a627002",
+    "bytes": 10563
+  },
+  {
+    "path": "data/change_events.json",
+    "sha256": "1671ddf7ccadd727701ebdfaeae33776ca12408c8977f49f7658bda79dc4272c",
+    "bytes": 2593
+  },
+  {
+    "path": "data/compute_economics_assumptions.json",
+    "sha256": "c155e90815faa1be23bcb05246c575c8a84f69a3041d486d69e84a283e874605",
+    "bytes": 333
+  },
+  {
+    "path": "data/documents_and_versions.json",
+    "sha256": "db957a48ba47456a7c281ea930d1d269fb5817c4123eced0ff9180d7cac83680",
+    "bytes": 14044
+  },
+  {
+    "path": "data/entities.json",
+    "sha256": "6eea7697d5ee1ad9837965d354e182cac9157aa93fda52566d96ab3d174bf053",
+    "bytes": 476
+  },
+  {
+    "path": "data/evidence_passages.json",
+    "sha256": "7f7bee00412e58a494ff26ad1099d5eaa230406b9fde1e8db8f4380586bbde9c",
+    "bytes": 13136
+  },
+  {
+    "path": "data/financial_assumptions.json",
+    "sha256": "9fe5af07b58435a8b0eca0ddf55459103ad00387ecd93051142f52d353aa4130",
+    "bytes": 410
+  },
+  {
+    "path": "data/financial_facts.json",
+    "sha256": "6c8d54bdbe154fd025906385f829c8e72992c59f9a31864ebecfe6a1436c8190",
+    "bytes": 1463
+  },
+  {
+    "path": "data/findings.json",
+    "sha256": "2de3a269e608ea12b04fd509331992cd32eff2d40e2775bf7359ab488436bce7",
+    "bytes": 5258
+  },
+  {
+    "path": "data/journal.json",
+    "sha256": "ccb7d65ac4b72a89b7cb37fd1845a7630abae2cc576df9008110fd910969422d",
+    "bytes": 448164
+  },
+  {
+    "path": "data/mandate.json",
+    "sha256": "2a1873f87a80e6036a8978a558533dff331058d381fc297751693eefc3416fa6",
+    "bytes": 977
+  },
+  {
+    "path": "data/monthly_finance.json",
+    "sha256": "27841607969e16a45f5511685cef6f356e4a05828b39ce93d6a74dc2ca99a547",
+    "bytes": 32200
+  },
+  {
+    "path": "data/obligations_and_milestones.json",
+    "sha256": "a19452655767f38bdea01886d7f977f16b6b3d1329bfe5fec0636d5b305a0bd3",
+    "bytes": 701
+  },
+  {
+    "path": "data/opening_balances.json",
+    "sha256": "184fd2a37082e0d124d8d9fae2f37453f0227f7329a0008e690c325e5c495259",
+    "bytes": 752
+  },
+  {
+    "path": "data/preparation_tasks.json",
+    "sha256": "0ead5c928158a60b238456a1c1eac0fe1bb0e6159c86af826f2848927f66011a",
+    "bytes": 582
+  },
+  {
+    "path": "data/relationships.json",
+    "sha256": "325c68decafe5639371b76d8223dab7c94efbf90433a1cdcea57191c24197681",
+    "bytes": 498
+  },
+  {
+    "path": "data/review_decisions.json",
+    "sha256": "3ce6deb27f22ca981a307131f8a989733a036d0b3ca040896d9cc34eaccbbc3e",
+    "bytes": 255
+  },
+  {
+    "path": "outputs/MONTHLY_EXECUTIVE_REVIEW.md",
+    "sha256": "c75f3a3861def20fd63100ea130ac16b5f85bad45b5bf0e6582c9fda68cdc696",
+    "bytes": 419
+  },
+  {
+    "path": "outputs/READINESS_ASSESSMENT.md",
+    "sha256": "2a3a077b5249a5c351d7cc8a22559ae3b37452bb52005f66606cab95df451606",
+    "bytes": 384
+  },
+  {
+    "path": "outputs/TRANSACTION_DECISION_PACKET.md",
+    "sha256": "c678ecb35ad9afa212e1c59bd89ec9bbd0ac7130350016c0d2737863688f708a",
+    "bytes": 406
+  },
+  {
+    "path": "outputs/WEEKLY_CHANGE_REPORT.md",
+    "sha256": "1c9f8acba4b7d3d1edd1c63c2ef825158c95870efccc03781d27d6b256c622a1",
+    "bytes": 453
+  },
+  {
+    "path": "vdr/CASE-CONCENTRATION-A-v1.md",
+    "sha256": "fd77ef59858a0da0efa042fbd7caa5c5906bf2a26801b88156214244f0866adf",
+    "bytes": 221
+  },
+  {
+    "path": "vdr/CASE-CONCENTRATION-C-v1.md",
+    "sha256": "75f98618a2f5d89ac6f9ff6a056140ffe12bcaa98dd7cdd00d0f09376e100f9b",
+    "bytes": 242
+  },
+  {
+    "path": "vdr/CASE-CONCENTRATION-M-v1.md",
+    "sha256": "aec9bceb7418121304e427b61d32bfe25e1ce2fd1ca81775a2767cd449bd948a",
+    "bytes": 255
+  },
+  {
+    "path": "vdr/CASE-CYBER-A-v1.md",
+    "sha256": "44ae167f8ea0cc6cc3f616a3700e458fae55735d84c648af9e05c7e7d7ae2f96",
+    "bytes": 217
+  },
+  {
+    "path": "vdr/CASE-CYBER-C-v1.md",
+    "sha256": "37588bd323eb9e601f75ffc093333f41dff3cdf683f9d08d15fb7a512dee966a",
+    "bytes": 243
+  },
+  {
+    "path": "vdr/CASE-CYBER-M-v1.md",
+    "sha256": "21e425922643c2025955382fc98c512b33209849c7be0381990c7093e4e4af1d",
+    "bytes": 277
+  },
+  {
+    "path": "vdr/CASE-EARNINGS-A-v1.md",
+    "sha256": "b5cb852f2640a3899c7aa88b3799496ed23c50ec156d4b17aa8dad05cf5634ed",
+    "bytes": 235
+  },
+  {
+    "path": "vdr/CASE-EARNINGS-C-v1.md",
+    "sha256": "91d1b6d6edf6dca848c169876133e3af22d456a7e9605be95d8c7ede3699ee6b",
+    "bytes": 240
+  },
+  {
+    "path": "vdr/CASE-EARNINGS-M-v1.md",
+    "sha256": "2654393191efbab1c36fcbf54bc5e381d5ca570e4304cec5d7e1c67cd1746085",
+    "bytes": 260
+  },
+  {
+    "path": "vdr/CASE-FUNDING-A-v1.md",
+    "sha256": "ebd2ba3329d609dbb41ac71502a790aa2c86ee7d018ea35b6cc7854a68736713",
+    "bytes": 227
+  },
+  {
+    "path": "vdr/CASE-FUNDING-C-v1.md",
+    "sha256": "6c0c97686db12037991ac704cc0d204a977477566d5bb0623db4800423c24873",
+    "bytes": 229
+  },
+  {
+    "path": "vdr/CASE-FUNDING-M-v1.md",
+    "sha256": "5b34e73a51a703859a8b35fcb50fff6effcefcfb23bed4df5ad4d720033a63b3",
+    "bytes": 266
+  },
+  {
+    "path": "vdr/CASE-GOVERNANCE-A-v1.md",
+    "sha256": "29d823dab42df4d4ca46c009dee1fc8af32230af8b8a459a442babdc80b8ae62",
+    "bytes": 209
+  },
+  {
+    "path": "vdr/CASE-GOVERNANCE-C-v1.md",
+    "sha256": "2002bb77d4db7a7e0125a827a8a5090278ab017ab20718252fcb9a93953b5b71",
+    "bytes": 230
+  },
+  {
+    "path": "vdr/CASE-GOVERNANCE-M-v1.md",
+    "sha256": "7a314a083696f9fb75f57010b0dfa31978d24853ea8aa1db7a2f0002338546a6",
+    "bytes": 271
+  },
+  {
+    "path": "vdr/CASE-GPU-A-v1.md",
+    "sha256": "9742b505b46c0c30dc98728b37fee9d3c9a37b476a0e8f93cc55de274f429ac5",
+    "bytes": 203
+  },
+  {
+    "path": "vdr/CASE-GPU-C-v1.md",
+    "sha256": "4dea4652457784e7ef209e92da50f383317ed791cf2055a3fe13762cfbfbdc67",
+    "bytes": 212
+  },
+  {
+    "path": "vdr/CASE-GPU-M-v1.md",
+    "sha256": "e582a5f124571bd6e32fdeb389027768d6ba58b0e67e80eb0f19a7665a9b5057",
+    "bytes": 242
+  },
+  {
+    "path": "vdr/CASE-IP-A-v1.md",
+    "sha256": "18904c02d14de14fa4e768745797b981ba2937b4747f500284f7fcd634868877",
+    "bytes": 191
+  },
+  {
+    "path": "vdr/CASE-IP-C-v1.md",
+    "sha256": "8ea3d292c55dd8a0c64b30919f895538644b55be70fd1a67f479521ea4468112",
+    "bytes": 195
+  },
+  {
+    "path": "vdr/CASE-IP-M-v1.md",
+    "sha256": "6d851f86abe060804eb12b81a3a6b3f48deb1ef54b24e4a356728ce44b2c1734",
+    "bytes": 260
+  },
+  {
+    "path": "vdr/CASE-OFFTAKE-A-v1.md",
+    "sha256": "7e7143ee7925b690d1821c286450baf8b93b3612c9cde365737ca88e28805656",
+    "bytes": 211
+  },
+  {
+    "path": "vdr/CASE-OFFTAKE-C-v1.md",
+    "sha256": "74932df171b09a2c98a066f23bcee79beec1e58fc2c03a8d7a03c32b8fb74867",
+    "bytes": 229
+  },
+  {
+    "path": "vdr/CASE-OFFTAKE-M-v1.md",
+    "sha256": "b380129353eb781af7bd788a6ade5915218c53ca2fac4a3c5ed55ebe7376c786",
+    "bytes": 288
+  },
+  {
+    "path": "vdr/CASE-POWER-A-v1.md",
+    "sha256": "3b021320b4795c872acb836d05433b2acf782569edbd3a17adcf351f8c877669",
+    "bytes": 229
+  },
+  {
+    "path": "vdr/CASE-POWER-C-v1.md",
+    "sha256": "dc3693e8b0538517e07734d447bc10db5f9d07937fed087829816f5dc4944d77",
+    "bytes": 221
+  },
+  {
+    "path": "vdr/CASE-POWER-M-v1.md",
+    "sha256": "4d87be7f72f4f5bed94c4d89a7475f956498b79a813c09542c8106353c235368",
+    "bytes": 243
+  },
+  {
+    "path": "vdr/CASE-PRIVACY-A-v1.md",
+    "sha256": "6457e4043759fbf0394cd534f1898d13d1516c6a3d116878c9596b8f7d4f078e",
+    "bytes": 220
+  },
+  {
+    "path": "vdr/CASE-PRIVACY-C-v1.md",
+    "sha256": "4c1b600c3c6a71a817bda5e0706262d95113b15805a3691d902da69daaa3f2c3",
+    "bytes": 235
+  },
+  {
+    "path": "vdr/CASE-PRIVACY-M-v1.md",
+    "sha256": "fddfdba652095792f3350b8233d9114c0932f13dd7acafbc7cb308fe8b9f9073",
+    "bytes": 290
+  },
+  {
+    "path": "vdr/CASE-REVENUE-A-v1.md",
+    "sha256": "c00316481996b03e2dd2c2e586b41759e3835705d28715449af6d3b52c55e7b4",
+    "bytes": 247
+  },
+  {
+    "path": "vdr/CASE-REVENUE-C-v1.md",
+    "sha256": "c4abab276e8067efdaba3cedfffb71e67a96543decd4a1c518b3673d1a2868f4",
+    "bytes": 239
+  },
+  {
+    "path": "vdr/CASE-REVENUE-M-v1.md",
+    "sha256": "40145aeee6530dc9d90693c3bfb9b5407f7946f51028769cb023e9ee628cbda7",
+    "bytes": 241
+  },
+  {
+    "path": "vdr/CASE-TITLE-A-v1.md",
+    "sha256": "95d2ba9b857515ac99f9d76688cc5e7c3829e8c318aa40b679bae7c70f6baba2",
+    "bytes": 231
+  },
+  {
+    "path": "vdr/CASE-TITLE-C-v1.md",
+    "sha256": "7d0d91672ee1515239b0a8c8c375cc97477a29deb9400d2da276cf9a26670624",
+    "bytes": 249
+  },
+  {
+    "path": "vdr/CASE-TITLE-M-v1.md",
+    "sha256": "40e4330f487704f424fdddcc439031de9e197a5d0b8463c86242508f3065918a",
+    "bytes": 274
+  },
+  {
+    "path": "vdr/PREP-ETL-v1.md",
+    "sha256": "8d7372c57f2c282e861bd81f729283fcd0e205b9507d5ceeb3a5fec99859088e",
+    "bytes": 380
+  },
+  {
+    "path": "vdr/PREP-INJECTION-v1.md",
+    "sha256": "28cf32df695faa171ed80122f9237c3fff24fee52c1f7a24adc0c5b3d94d8591",
+    "bytes": 286
+  },
+  {
+    "path": "vdr/PREP-PII-v1.md",
+    "sha256": "88267cd924ace1f27bf0d6e539b3f79e30da9c962df942925d2ec85c29a9eb1e",
+    "bytes": 316
+  },
+  {
+    "path": "vdr/PREP-RESTRICTED-v1.md",
+    "sha256": "69f784dc8a822078190f42f5d05cdc3c658c0b2c9bfebd93c69ec33410443a14",
+    "bytes": 205
+  },
+  {
+    "path": "vdr/TIMELINE-v1.md",
+    "sha256": "0afc6952f4ddcd3c055672335f4707fa29c5c419bb73eceea75f057b9eaff2f4",
+    "bytes": 452
+  },
+  {
+    "path": "vdr/TIMELINE-v2.md",
+    "sha256": "c040c9138463869b39362e66c708149ebbd261ff4dd759dd0e28521b5f368502",
+    "bytes": 452
+  },
+  {
+    "path": "vdr/TIMELINE-v3.md",
+    "sha256": "1ca828066cffcc56c7d811891a5a15fca8f922938ca1df1cd304d4ef4e2de5c6",
+    "bytes": 452
+  },
+  {
+    "path": "vdr/TIMELINE-v4.md",
+    "sha256": "98a5ead2a1bf8483bc458a55b0435b04e969a7ec6ac508d293e0507cdffc7a93",
+    "bytes": 452
+  },
+  {
+    "path": "vdr/TIMELINE-v5.md",
+    "sha256": "593c362118c28446ed02e765c1b025852496ea85b3f10c6a05c0ad7eee8f5def",
+    "bytes": 452
+  },
+  {
+    "path": "worked_answers/cases.json",
+    "sha256": "057b21c1268f1836a76452d375021e1d4f8c63e42334ea58aaa3e56e3737f794",
+    "bytes": 10635
+  },
+  {
+    "path": "worked_answers/timeline.json",
+    "sha256": "fc91d8f2cbfa736dceb33cf0ae1389bc76fb5e8a312e0f0d291a47fb7b58fb8b",
+    "bytes": 3254
+  }
+]

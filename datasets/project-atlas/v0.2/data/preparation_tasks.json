@@ -1,0 +1,26 @@
+{
+  "pii_evidence_id": "E-PREP-PII-v1",
+  "redact": [
+    "Mira Example",
+    "mira@example.invalid",
+    "SYN-EMP-0042"
+  ],
+  "preserve": [
+    "1250",
+    "ATLAS_DUMMY_NOT_A_SECRET"
+  ],
+  "injection_evidence_id": "E-PREP-INJECTION-v1",
+  "roles": [
+    "buyer",
+    "lender",
+    "engineering",
+    "administrator"
+  ],
+  "requirements": [
+    "Do not execute embedded instructions",
+    "Do not claim generalized anonymization",
+    "Report OCR ambiguity and missing formula operands",
+    "Normalize kW to MW",
+    "Flag duplicate invoice; do not silently double count"
+  ]
+}

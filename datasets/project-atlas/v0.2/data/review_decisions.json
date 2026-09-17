@@ -1,0 +1,10 @@
+[
+  {
+    "id": "REVIEW-EXAMPLE",
+    "finding_id": "F-1",
+    "decision": "request_evidence",
+    "reviewer": "fictional_reviewer",
+    "status": "illustration_only",
+    "reason": "Author labels do not constitute independent specialist approval."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "REL-01",
+    "from": "ENT-HOLD",
+    "to": "ENT-SITE",
+    "kind": "owns"
+  },
+  {
+    "id": "REL-02",
+    "from": "ENT-HOLD",
+    "to": "ENT-GPU",
+    "kind": "owns"
+  },
+  {
+    "id": "REL-03",
+    "from": "AS-GPU",
+    "to": "AS-SITE",
+    "kind": "requires_energization"
+  },
+  {
+    "id": "REL-04",
+    "from": "AS-NET",
+    "to": "AS-GPU",
+    "kind": "provides_access_to"
+  },
+  {
+    "id": "REL-05",
+    "from": "AS-IP",
+    "to": "AS-NET",
+    "kind": "operates_on"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "F-1",
+    "case_id": "CASE-REVENUE-M",
+    "claim": "$2m recurring classification discrepancy; specialist accounting review required.",
+    "evidence_ids": [
+      "E-CASE-REVENUE-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-2",
+    "case_id": "CASE-EARNINGS-M",
+    "claim": "Potential $2m unsupported addback; earnings quality review required.",
+    "evidence_ids": [
+      "E-CASE-EARNINGS-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-3",
+    "case_id": "CASE-POWER-M",
+    "claim": "92-day milestone mismatch; delivery impact requires engineering validation.",
+    "evidence_ids": [
+      "E-CASE-POWER-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-4",
+    "case_id": "CASE-GPU-M",
+    "claim": "1024 GPUs counted without acceptance support.",
+    "evidence_ids": [
+      "E-CASE-GPU-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-5",
+    "case_id": "CASE-OFFTAKE-M",
+    "claim": "Forecast omits a material termination condition; legal review required.",
+    "evidence_ids": [
+      "E-CASE-OFFTAKE-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-6",
+    "case_id": "CASE-FUNDING-M",
+    "claim": "$10m documented funding shortfall; uncommitted funding must not be counted.",
+    "evidence_ids": [
+      "E-CASE-FUNDING-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-7",
+    "case_id": "CASE-TITLE-M",
+    "claim": "1024 GPUs pledged despite unencumbered representation; specialist title review required.",
+    "evidence_ids": [
+      "E-CASE-TITLE-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-8",
+    "case_id": "CASE-IP-M",
+    "claim": "Module M7 assignment unsupported by supplied contract; counsel must assess rights.",
+    "evidence_ids": [
+      "E-CASE-IP-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-9",
+    "case_id": "CASE-CYBER-M",
+    "claim": "Unremediated privileged access exposure; exploitation not established.",
+    "evidence_ids": [
+      "E-CASE-CYBER-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-10",
+    "case_id": "CASE-PRIVACY-M",
+    "claim": "Identifiable records lack documented disclosure authority; privacy review required.",
+    "evidence_ids": [
+      "E-CASE-PRIVACY-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-11",
+    "case_id": "CASE-CONCENTRATION-M",
+    "claim": "70% customer concentration with short termination period; resilience review required.",
+    "evidence_ids": [
+      "E-CASE-CONCENTRATION-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  },
+  {
+    "id": "F-12",
+    "case_id": "CASE-GOVERNANCE-M",
+    "claim": "$3m related-party approval evidence gap; do not infer fraud.",
+    "evidence_ids": [
+      "E-CASE-GOVERNANCE-M-v1"
+    ],
+    "uncertainty": "Synthetic author interpretation; qualified review pending",
+    "affected_entity_ids": [
+      "ENT-HOLD"
+    ],
+    "owner_role": "administrator",
+    "review_status": "pending",
+    "resolution_status": "open"
+  }
+]
