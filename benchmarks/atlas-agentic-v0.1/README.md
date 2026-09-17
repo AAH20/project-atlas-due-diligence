@@ -26,7 +26,7 @@ Kaggle task scores are case pass fractions, not the proposed institutional weigh
 
 Create a task notebook at https://www.kaggle.com/benchmarks/tasks/new. Place `pilot.py` and `kaggle_task.py` in its import path. Import `atlas_evidence` / `atlas_dynamic`; explicitly run each with a supported model. Inspect `list(kbench.llms.keys())` first. Retain all failed runs and output artifacts. Record SDK version and corpus hash, then publish the tested tasks and assemble them in a benchmark using Kaggle's UI. Engineering candidate execution belongs in a separately reviewed sandbox, not this notebook's unrestricted interpreter.
 
-SDK integration has not been run against a live Kaggle model. Local tests use no providers. Quotas/model access and publication must be verified in the account. No credentials are included.
+Evidence SDK integration was run live on Kaggle with Gemini 3.7 Flash: strict JSON fence parsing corrected an initial parser-induced 0/9 to 9/9 on one run. This is a simple public-case diagnostic, not a comparative leaderboard. Local tests use no providers. The initial pilot uses sequential prompts in one task chat; isolate case chats and freeze the context policy before model comparisons. Quotas/model access and publication must be verified in the account. No credentials are included.
 
 ## Next gate
 
@@ -43,4 +43,4 @@ Add interrupted tools, post-close monitoring, evidence changes requiring decisio
 - [SWE-Bench Pro paper](https://arxiv.org/abs/2509.16941)
 - [UTBoost paper](https://openreview.net/pdf/b6452508eb507eff05a31e2504cb6fb7b03d7880.pdf)
 
-SWE-Bench Pro and UTBoost are different extensions; this repository bundles neither their datasets nor scores. Reuse follows repository LICENSE/DATA_LICENSE.md.
+SWE-Bench Pro and UTBoost are different extensions; this repository bundles neither their datasets nor scores. Only this new pilot and packages/atlas-benchmark are Apache 2.0; see LICENSE.md. Existing Atlas datasets retain their current terms.
