@@ -1,7 +1,7 @@
 """Run in a Kaggle benchmark notebook with pilot.py beside this file."""
 import json
 import kaggle_benchmarks as kbench
-from pilot import Environment, cases, score
+from pilot import Environment, cases, score, parse_response
 
 @kbench.task(name='Atlas evidence pilot')
 def atlas_evidence(llm) -> float:
@@ -11,7 +11,7 @@ def atlas_evidence(llm) -> float:
         prompt = case['prompt'] + '\nEvidence: ' + json.dumps(case['documents'])
         response = llm.prompt(prompt + '\nReturn only JSON: {"status":str,"value":number|null,"evidence_ids":[str]}.')
         try:
-            measured = score(case, json.loads(response))
+            measured = score(case, parse_response(response))
             passed += all(measured[k] for k in ('classification_correct','calculation_correct','required_evidence_complete')) and measured['fabricated_citation_count'] == 0
         except (ValueError, TypeError, KeyError):
             pass  # Invalid model output scores zero; provider errors remain run errors.
@@ -26,7 +26,7 @@ def atlas_dynamic(llm) -> float:
             prompt = json.dumps({'observation':env.observation(), 'history':env.events})
             response = llm.prompt(prompt + '\nReturn ONLY JSON action: {"action":"read","document_id":str}, {"action":"advance"}, or {"action":"decide","prediction":{"status":str,"value":number|null,"evidence_ids":[str]}}. Read evidence before citing it. You have at most four actions.')
             try:
-                result = env.step(json.loads(response))
+                result = env.step(parse_response(response))
             except (ValueError, TypeError, AttributeError):
                 break
             if env.closed:

@@ -1,7 +1,10 @@
 import unittest
-from pilot import Environment, cases, reconcile, score
+from pilot import Environment, cases, reconcile, score, parse_response
 
 class PilotTests(unittest.TestCase):
+    def test_fenced_json(self):
+        self.assertEqual(parse_response('```json\n{"status":"clean"}\n```'), {"status":"clean"})
+        with self.assertRaises(ValueError): parse_response('prose {"status":"clean"}')
     def test_oracles(self):
         for c in cases():
             s = score(c, c['oracle'])

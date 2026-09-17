@@ -23,6 +23,15 @@ def cases():
     return result
 
 
+def parse_response(text):
+    text = text.strip()
+    if text.startswith("```json\n") and text.endswith("```"):
+        text = text[8:-3].strip()
+    elif text.startswith("```\n") and text.endswith("```"):
+        text = text[4:-3].strip()
+    return json.loads(text)
+
+
 def score(case, prediction):
     if not isinstance(prediction, dict):
         raise ValueError('prediction must be an object')
