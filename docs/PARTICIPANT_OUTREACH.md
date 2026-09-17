@@ -1,6 +1,17 @@
 # Suggested participant communities
 
-No invitations have been sent. These repositories are potential sources of relevant expertise, not sponsors or endorsed partners. Ask maintainers whether an invitation belongs in their community/Discussion channel; do not open promotional bug issues or mass-tag contributors.
+Initial channel-selection requests were sent on September 17, 2026; see the outreach record below. These repositories are potential sources of relevant expertise, not sponsors or endorsed partners. Ask maintainers whether an invitation belongs in their community/Discussion channel; do not open promotional bug issues or mass-tag contributors.
+
+## Initial outreach record — September 17, 2026
+
+| Community | Action and evidence | Status |
+|---|---|---|
+| FinanceBench | Tailored email to its README-listed research contact; Gmail showed “Message sent” | Response not yet checked; no approval or endorsement claimed |
+| AgentDojo | Tailored email to the first author's published research contact; Gmail showed “Message sent” | Response not yet checked; no approval or endorsement claimed |
+| Presidio | [General discussion channel request](https://github.com/data-privacy-stack/presidio/discussions/2264) | Posted; broader invitation permission pending |
+| Docling | [General discussion channel request](https://github.com/docling-project/docling/discussions/4280) | Posted; broader invitation permission pending |
+
+Each message disclosed the organizer, kudos-only format, deadline, participant ownership and public synthetic teaching-set limitations, with links to the competition, repository and dataset. No existing integration, sponsor relationship or benchmark performance was claimed. The other communities below have not been contacted in this batch. There was no mass tagging or promotional bug issue.
 
 | Repository | Exact invitation angle |
 |---|---|
