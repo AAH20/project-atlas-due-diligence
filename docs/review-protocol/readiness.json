@@ -1,0 +1,25 @@
+{
+  "protocol": "atlas-case-review-v0.3",
+  "case_count": 36,
+  "domain_count": 12,
+  "domains": [
+    "concentration",
+    "cyber",
+    "earnings",
+    "funding",
+    "governance",
+    "gpu",
+    "ip",
+    "offtake",
+    "power",
+    "privacy",
+    "revenue",
+    "title"
+  ],
+  "submitted_expert_reviews": 0,
+  "accepted_cases": 0,
+  "case_quality_ready": false,
+  "held_out_benchmark_ready": false,
+  "freeze_attempt": "REJECTED_PENDING_REVIEW",
+  "scope": "Local preparation summary; no reviewer identities, opaque organizer mapping or private evaluation candidates included."
+}

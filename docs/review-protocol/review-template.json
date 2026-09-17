@@ -1,0 +1,20 @@
+{
+  "case_id": "COPY_FROM_PACKET",
+  "packet_sha256": "COPY_FROM_MANIFEST",
+  "rubric_sha256": "53dd7ad681a964f36fc035e8cd1c9eace88d431dde1ec2656e31088878556a83",
+  "reviewer_id": "ASSIGNED_REVIEWER_ID",
+  "verdict": null,
+  "conclusion": null,
+  "required_evidence_ids": [],
+  "ratings": {
+    "evidence_sufficiency": null,
+    "materiality_clarity": null,
+    "answer_resolvability": null,
+    "alternative_answers": null,
+    "domain_realism": null
+  },
+  "critical_defects": [],
+  "alternative_answers": [],
+  "rationale": "",
+  "answer_exposure": null
+}

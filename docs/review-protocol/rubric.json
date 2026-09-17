@@ -1,0 +1,21 @@
+{
+  "version": "atlas-case-review-v0.3",
+  "criteria": [
+    "evidence_sufficiency",
+    "materiality_clarity",
+    "answer_resolvability",
+    "alternative_answers",
+    "domain_realism"
+  ],
+  "anchors": {
+    "0": "unusable or unsupported",
+    "1": "major gaps",
+    "2": "partially supported; revisions needed",
+    "3": "supported with explicit limitations",
+    "4": "fully supported and decision-useful within stated scope"
+  },
+  "minimum_each": 3,
+  "reviewers_per_case": 2,
+  "rating_disagreement_threshold": 1,
+  "scope": "case quality validation; not agent grading or institutional certification"
+}

@@ -28,6 +28,10 @@ Public author labels and fixture checks do not establish frontier agent performa
 
 [Benchmark pilot](benchmarks/atlas-agentic-v0.1/README.md) · [Kaggle suite](https://www.kaggle.com/benchmarks/ahmedalaahassan/atlas-agentic-due-diligence-development-pilot): nine public evidence/calculation cases, a budgeted staged investigation simulator with JSON replays, two Kaggle SDK adapters and an engineering repair exercise. Public oracle self-checks are not model rankings. [Evolution v0.2](benchmarks/atlas-agentic-v0.1/evolution-v0.2/README.md) adds isolated case context, funding evidence reversals, calibrated-output diagnostics and run telemetry as a separate Kaggle task. The competition rubric stays unchanged.
 
+### Independent case-review preparation
+
+[Review protocol v0.3](docs/review-protocol/README.md) prepares expert validation of the 36 existing expansion exercises: masked packets, two-reviewer gate, adjudication and content-bound freeze. [Current readiness](docs/review-protocol/readiness.json): no submitted expert reviews; no expert-approved or held-out benchmark claim.
+
 ### v0.1 teaching preview
 
 - 66 versioned Markdown VDR documents spanning corporate, finance, commercial, AI/data/IP, infrastructure, security, privacy, legal, people, tax, environment, deal and post-close evidence.
