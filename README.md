@@ -68,9 +68,9 @@ Automated arithmetic checks pass; independent expert realism review remains pend
 
 ## Commercial layers
 
-[Offering design](docs/COMMERCIAL_AND_DATASET_DESIGN.md): free public lab; licensed private evaluation packs; Scale AI operating cost/reliability layer; A2Z SOC scoped technical/AI/cyber diligence; managed evidence/GRC; separately contracted MSP/MSSP; continuous portfolio BI; custom integrations. These are proposed layers, not claims that all features/services are live. Hero metrics: contribution margin per tenant/deal, COGS, payback and cost per verified material finding.
+[Offering design](docs/COMMERCIAL_AND_DATASET_DESIGN.md): free public lab; licensed private evaluation packs; A2Z SOC scoped technical/AI/cyber diligence; managed evidence/GRC; separately contracted MSP/MSSP; continuous portfolio BI; custom integrations. These are proposed layers, not claims that all features/services are live. Hero metrics: contribution margin per tenant/deal, COGS, payback and cost per verified material finding.
 
-Scale AI positioning remains: **“CodeCanyon gave you modules. Scale AI makes the system operable.”** No private Scale AI or Investor OS implementation or other private workflow videos are included.
+No private application implementation or other private workflow videos are included.
 
 ## Permission and contact
 

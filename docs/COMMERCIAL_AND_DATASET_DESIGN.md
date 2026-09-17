@@ -73,7 +73,6 @@ Evaluation product: licensed private case packs, hosted isolated evaluation, reg
 
 Investor OS deal workspace: permissioned evidence/Q&A, risk register, IC memo workflow, approvals and transaction integration plan. Buyer: VC/PE/strategic M&A teams. Pricing hypothesis: per deal/workspace with seats/storage/processing allowances. Needs demonstrated reproducibility, secure deployment and a real human review workflow.
 
-Scale AI operating layer: tenant/job metering, provider routing, COGS attribution, processing reliability and contribution-margin/payback reporting. Buyer: operators deploying agent workflows. Charge for platform plus measured usage; this proposal does not assert the existing Scale AI v1 implements all diligence functions.
 
 A2Z SOC evidence/diligence sprint: authorised asset discovery, evidence readiness, technical/AI/cyber review and integration priorities. Buyer: acquirer or target. Fixed scoped engagement with explicit exclusions, signed access authority and expert-reviewed deliverables. Separate financial/legal/tax professionals where needed.
 
