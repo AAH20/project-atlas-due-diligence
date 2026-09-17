@@ -24,6 +24,10 @@ node --test packages/atlas-expansion/expansion.test.mjs
 
 Public author labels and fixture checks do not establish frontier agent performance or expert realism. Organizer evaluation candidates and their generator are kept outside this public monorepo. The published competition rubric is unchanged.
 
+### Agentic benchmark development pilot
+
+[Benchmark pilot](benchmarks/atlas-agentic-v0.1/README.md): nine public evidence/calculation cases, a budgeted staged investigation simulator with JSON replays, two Kaggle SDK adapters and an engineering repair exercise. Public oracle self-checks are not model rankings. The competition rubric stays unchanged.
+
 ### v0.1 teaching preview
 
 - 66 versioned Markdown VDR documents spanning corporate, finance, commercial, AI/data/IP, infrastructure, security, privacy, legal, people, tax, environment, deal and post-close evidence.

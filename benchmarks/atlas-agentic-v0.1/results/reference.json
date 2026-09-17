@@ -1,0 +1,114 @@
+{
+  "kind": "oracle-assisted harness self-check; not an agent",
+  "corpus_sha256": "77888640c4680a698641d4cab94f63ee93d68d07c621a8335e2eac8dadd5da25",
+  "results": [
+    {
+      "case_id": "tenant_cogs-material",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "tenant_cogs-clean",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "tenant_cogs-insufficient_evidence",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "funding-material",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "funding-clean",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "funding-insufficient_evidence",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "capacity-material",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "capacity-clean",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    },
+    {
+      "case_id": "capacity-insufficient_evidence",
+      "metrics": {
+        "classification_correct": true,
+        "calculation_correct": true,
+        "required_evidence_complete": true,
+        "fabricated_citation_count": 0,
+        "semantic_support": "unreviewed"
+      },
+      "unseen_citations": [],
+      "eligible": true
+    }
+  ]
+}

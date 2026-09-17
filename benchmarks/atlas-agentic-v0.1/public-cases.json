@@ -1,0 +1,209 @@
+[
+  {
+    "case_id": "tenant_cogs-material",
+    "documents": [
+      {
+        "id": "tenant_cogs-material/claim@T0",
+        "stage": 0,
+        "text": "tenant_cogs: required/revenue=100; amounts in synthetic units."
+      },
+      {
+        "id": "tenant_cogs-material/verified@T1",
+        "stage": 1,
+        "text": "Verified cost/available=120."
+      }
+    ],
+    "domain": "tenant_cogs",
+    "oracle": {
+      "evidence_ids": [
+        "tenant_cogs-material/claim@T0",
+        "tenant_cogs-material/verified@T1"
+      ],
+      "status": "material",
+      "value": -0.2
+    },
+    "prompt": "Classify tenant_cogs as material, clean or insufficient_evidence. Calculate margin from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "tenant_cogs-clean",
+    "documents": [
+      {
+        "id": "tenant_cogs-clean/claim@T0",
+        "stage": 0,
+        "text": "tenant_cogs: required/revenue=100; amounts in synthetic units."
+      },
+      {
+        "id": "tenant_cogs-clean/verified@T1",
+        "stage": 1,
+        "text": "Verified cost/available=60."
+      }
+    ],
+    "domain": "tenant_cogs",
+    "oracle": {
+      "evidence_ids": [
+        "tenant_cogs-clean/claim@T0",
+        "tenant_cogs-clean/verified@T1"
+      ],
+      "status": "clean",
+      "value": 0.4
+    },
+    "prompt": "Classify tenant_cogs as material, clean or insufficient_evidence. Calculate margin from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "tenant_cogs-insufficient_evidence",
+    "documents": [
+      {
+        "id": "tenant_cogs-insufficient_evidence/claim@T0",
+        "stage": 0,
+        "text": "tenant_cogs: required/revenue=100; amounts in synthetic units."
+      }
+    ],
+    "domain": "tenant_cogs",
+    "oracle": {
+      "evidence_ids": [
+        "tenant_cogs-insufficient_evidence/claim@T0"
+      ],
+      "status": "insufficient_evidence",
+      "value": null
+    },
+    "prompt": "Classify tenant_cogs as material, clean or insufficient_evidence. Calculate margin from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "funding-material",
+    "documents": [
+      {
+        "id": "funding-material/claim@T0",
+        "stage": 0,
+        "text": "funding: required/revenue=200; amounts in synthetic units."
+      },
+      {
+        "id": "funding-material/verified@T1",
+        "stage": 1,
+        "text": "Verified cost/available=150."
+      }
+    ],
+    "domain": "funding",
+    "oracle": {
+      "evidence_ids": [
+        "funding-material/claim@T0",
+        "funding-material/verified@T1"
+      ],
+      "status": "material",
+      "value": 50
+    },
+    "prompt": "Classify funding as material, clean or insufficient_evidence. Calculate gap from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "funding-clean",
+    "documents": [
+      {
+        "id": "funding-clean/claim@T0",
+        "stage": 0,
+        "text": "funding: required/revenue=200; amounts in synthetic units."
+      },
+      {
+        "id": "funding-clean/verified@T1",
+        "stage": 1,
+        "text": "Verified cost/available=220."
+      }
+    ],
+    "domain": "funding",
+    "oracle": {
+      "evidence_ids": [
+        "funding-clean/claim@T0",
+        "funding-clean/verified@T1"
+      ],
+      "status": "clean",
+      "value": 0
+    },
+    "prompt": "Classify funding as material, clean or insufficient_evidence. Calculate gap from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "funding-insufficient_evidence",
+    "documents": [
+      {
+        "id": "funding-insufficient_evidence/claim@T0",
+        "stage": 0,
+        "text": "funding: required/revenue=200; amounts in synthetic units."
+      }
+    ],
+    "domain": "funding",
+    "oracle": {
+      "evidence_ids": [
+        "funding-insufficient_evidence/claim@T0"
+      ],
+      "status": "insufficient_evidence",
+      "value": null
+    },
+    "prompt": "Classify funding as material, clean or insufficient_evidence. Calculate gap from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "capacity-material",
+    "documents": [
+      {
+        "id": "capacity-material/claim@T0",
+        "stage": 0,
+        "text": "capacity: required/revenue=64; amounts in synthetic units."
+      },
+      {
+        "id": "capacity-material/verified@T1",
+        "stage": 1,
+        "text": "Verified cost/available=48."
+      }
+    ],
+    "domain": "capacity",
+    "oracle": {
+      "evidence_ids": [
+        "capacity-material/claim@T0",
+        "capacity-material/verified@T1"
+      ],
+      "status": "material",
+      "value": 16
+    },
+    "prompt": "Classify capacity as material, clean or insufficient_evidence. Calculate shortfall from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "capacity-clean",
+    "documents": [
+      {
+        "id": "capacity-clean/claim@T0",
+        "stage": 0,
+        "text": "capacity: required/revenue=64; amounts in synthetic units."
+      },
+      {
+        "id": "capacity-clean/verified@T1",
+        "stage": 1,
+        "text": "Verified cost/available=80."
+      }
+    ],
+    "domain": "capacity",
+    "oracle": {
+      "evidence_ids": [
+        "capacity-clean/claim@T0",
+        "capacity-clean/verified@T1"
+      ],
+      "status": "clean",
+      "value": 0
+    },
+    "prompt": "Classify capacity as material, clean or insufficient_evidence. Calculate shortfall from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  },
+  {
+    "case_id": "capacity-insufficient_evidence",
+    "documents": [
+      {
+        "id": "capacity-insufficient_evidence/claim@T0",
+        "stage": 0,
+        "text": "capacity: required/revenue=64; amounts in synthetic units."
+      }
+    ],
+    "domain": "capacity",
+    "oracle": {
+      "evidence_ids": [
+        "capacity-insufficient_evidence/claim@T0"
+      ],
+      "status": "insufficient_evidence",
+      "value": null
+    },
+    "prompt": "Classify capacity as material, clean or insufficient_evidence. Calculate shortfall from supplied evidence. Margin=(revenue-cost)/revenue; gap and shortfall=max(required-available,0). Cite document IDs. Do not infer missing evidence."
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "case_id": "tenant_cogs-material",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "tenant_cogs-material/claim@T0"
+        },
+        "response": {
+          "id": "tenant_cogs-material/claim@T0",
+          "stage": 0,
+          "text": "tenant_cogs: required/revenue=100; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 1,
+        "budget_remaining": 2,
+        "action": {
+          "action": "advance"
+        },
+        "response": {
+          "stage": 1
+        }
+      },
+      {
+        "sequence": 2,
+        "stage": 1,
+        "budget_remaining": 1,
+        "action": {
+          "action": "read",
+          "document_id": "tenant_cogs-material/verified@T1"
+        },
+        "response": {
+          "id": "tenant_cogs-material/verified@T1",
+          "stage": 1,
+          "text": "Verified cost/available=120."
+        }
+      },
+      {
+        "sequence": 3,
+        "stage": 1,
+        "budget_remaining": 0,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "material",
+            "value": -0.2,
+            "evidence_ids": [
+              "tenant_cogs-material/claim@T0",
+              "tenant_cogs-material/verified@T1"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "tenant_cogs-clean",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "tenant_cogs-clean/claim@T0"
+        },
+        "response": {
+          "id": "tenant_cogs-clean/claim@T0",
+          "stage": 0,
+          "text": "tenant_cogs: required/revenue=100; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 1,
+        "budget_remaining": 2,
+        "action": {
+          "action": "advance"
+        },
+        "response": {
+          "stage": 1
+        }
+      },
+      {
+        "sequence": 2,
+        "stage": 1,
+        "budget_remaining": 1,
+        "action": {
+          "action": "read",
+          "document_id": "tenant_cogs-clean/verified@T1"
+        },
+        "response": {
+          "id": "tenant_cogs-clean/verified@T1",
+          "stage": 1,
+          "text": "Verified cost/available=60."
+        }
+      },
+      {
+        "sequence": 3,
+        "stage": 1,
+        "budget_remaining": 0,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "clean",
+            "value": 0.4,
+            "evidence_ids": [
+              "tenant_cogs-clean/claim@T0",
+              "tenant_cogs-clean/verified@T1"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "tenant_cogs-insufficient_evidence",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "tenant_cogs-insufficient_evidence/claim@T0"
+        },
+        "response": {
+          "id": "tenant_cogs-insufficient_evidence/claim@T0",
+          "stage": 0,
+          "text": "tenant_cogs: required/revenue=100; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 0,
+        "budget_remaining": 2,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "insufficient_evidence",
+            "value": null,
+            "evidence_ids": [
+              "tenant_cogs-insufficient_evidence/claim@T0"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "funding-material",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "funding-material/claim@T0"
+        },
+        "response": {
+          "id": "funding-material/claim@T0",
+          "stage": 0,
+          "text": "funding: required/revenue=200; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 1,
+        "budget_remaining": 2,
+        "action": {
+          "action": "advance"
+        },
+        "response": {
+          "stage": 1
+        }
+      },
+      {
+        "sequence": 2,
+        "stage": 1,
+        "budget_remaining": 1,
+        "action": {
+          "action": "read",
+          "document_id": "funding-material/verified@T1"
+        },
+        "response": {
+          "id": "funding-material/verified@T1",
+          "stage": 1,
+          "text": "Verified cost/available=150."
+        }
+      },
+      {
+        "sequence": 3,
+        "stage": 1,
+        "budget_remaining": 0,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "material",
+            "value": 50,
+            "evidence_ids": [
+              "funding-material/claim@T0",
+              "funding-material/verified@T1"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "funding-clean",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "funding-clean/claim@T0"
+        },
+        "response": {
+          "id": "funding-clean/claim@T0",
+          "stage": 0,
+          "text": "funding: required/revenue=200; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 1,
+        "budget_remaining": 2,
+        "action": {
+          "action": "advance"
+        },
+        "response": {
+          "stage": 1
+        }
+      },
+      {
+        "sequence": 2,
+        "stage": 1,
+        "budget_remaining": 1,
+        "action": {
+          "action": "read",
+          "document_id": "funding-clean/verified@T1"
+        },
+        "response": {
+          "id": "funding-clean/verified@T1",
+          "stage": 1,
+          "text": "Verified cost/available=220."
+        }
+      },
+      {
+        "sequence": 3,
+        "stage": 1,
+        "budget_remaining": 0,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "clean",
+            "value": 0,
+            "evidence_ids": [
+              "funding-clean/claim@T0",
+              "funding-clean/verified@T1"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "funding-insufficient_evidence",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "funding-insufficient_evidence/claim@T0"
+        },
+        "response": {
+          "id": "funding-insufficient_evidence/claim@T0",
+          "stage": 0,
+          "text": "funding: required/revenue=200; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 0,
+        "budget_remaining": 2,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "insufficient_evidence",
+            "value": null,
+            "evidence_ids": [
+              "funding-insufficient_evidence/claim@T0"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "capacity-material",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "capacity-material/claim@T0"
+        },
+        "response": {
+          "id": "capacity-material/claim@T0",
+          "stage": 0,
+          "text": "capacity: required/revenue=64; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 1,
+        "budget_remaining": 2,
+        "action": {
+          "action": "advance"
+        },
+        "response": {
+          "stage": 1
+        }
+      },
+      {
+        "sequence": 2,
+        "stage": 1,
+        "budget_remaining": 1,
+        "action": {
+          "action": "read",
+          "document_id": "capacity-material/verified@T1"
+        },
+        "response": {
+          "id": "capacity-material/verified@T1",
+          "stage": 1,
+          "text": "Verified cost/available=48."
+        }
+      },
+      {
+        "sequence": 3,
+        "stage": 1,
+        "budget_remaining": 0,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "material",
+            "value": 16,
+            "evidence_ids": [
+              "capacity-material/claim@T0",
+              "capacity-material/verified@T1"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "capacity-clean",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "capacity-clean/claim@T0"
+        },
+        "response": {
+          "id": "capacity-clean/claim@T0",
+          "stage": 0,
+          "text": "capacity: required/revenue=64; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 1,
+        "budget_remaining": 2,
+        "action": {
+          "action": "advance"
+        },
+        "response": {
+          "stage": 1
+        }
+      },
+      {
+        "sequence": 2,
+        "stage": 1,
+        "budget_remaining": 1,
+        "action": {
+          "action": "read",
+          "document_id": "capacity-clean/verified@T1"
+        },
+        "response": {
+          "id": "capacity-clean/verified@T1",
+          "stage": 1,
+          "text": "Verified cost/available=80."
+        }
+      },
+      {
+        "sequence": 3,
+        "stage": 1,
+        "budget_remaining": 0,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "clean",
+            "value": 0,
+            "evidence_ids": [
+              "capacity-clean/claim@T0",
+              "capacity-clean/verified@T1"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "capacity-insufficient_evidence",
+    "events": [
+      {
+        "sequence": 0,
+        "stage": 0,
+        "budget_remaining": 3,
+        "action": {
+          "action": "read",
+          "document_id": "capacity-insufficient_evidence/claim@T0"
+        },
+        "response": {
+          "id": "capacity-insufficient_evidence/claim@T0",
+          "stage": 0,
+          "text": "capacity: required/revenue=64; amounts in synthetic units."
+        }
+      },
+      {
+        "sequence": 1,
+        "stage": 0,
+        "budget_remaining": 2,
+        "action": {
+          "action": "decide",
+          "prediction": {
+            "status": "insufficient_evidence",
+            "value": null,
+            "evidence_ids": [
+              "capacity-insufficient_evidence/claim@T0"
+            ]
+          }
+        },
+        "response": {
+          "metrics": {
+            "classification_correct": true,
+            "calculation_correct": true,
+            "required_evidence_complete": true,
+            "fabricated_citation_count": 0,
+            "semantic_support": "unreviewed"
+          },
+          "unseen_citations": [],
+          "eligible": true
+        }
+      }
+    ]
+  }
+]
