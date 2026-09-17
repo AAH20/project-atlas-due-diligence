@@ -1,0 +1,7 @@
+entity_id,name,parent_id,jurisdiction_assumption,operating_status
+ENT-01,Atlas Synthetic Entity 1,,US,holding
+ENT-02,Atlas Synthetic Entity 2,ENT-01,US,operating
+ENT-03,Atlas Synthetic Entity 3,ENT-01,UK,operating
+ENT-04,Atlas Synthetic Entity 4,ENT-01,IE,operating
+ENT-05,Atlas Synthetic Entity 5,ENT-01,SG,operating
+ENT-06,Atlas Synthetic Entity 6,ENT-01,US,operating

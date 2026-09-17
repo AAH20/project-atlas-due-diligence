@@ -1,0 +1,110 @@
+[
+  {
+    "allocated_cost_cents": 330000000,
+    "contribution_cents": -30000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-01",
+    "month": "2026-09",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 327000000,
+    "contribution_cents": -27000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-02",
+    "month": "2026-10",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 324000000,
+    "contribution_cents": -24000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-03",
+    "month": "2026-11",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 321000000,
+    "contribution_cents": -21000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-04",
+    "month": "2026-12",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 318000000,
+    "contribution_cents": -18000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-05",
+    "month": "2027-01",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 315000000,
+    "contribution_cents": -15000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-06",
+    "month": "2027-02",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 312000000,
+    "contribution_cents": -12000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-07",
+    "month": "2027-03",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 309000000,
+    "contribution_cents": -9000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-08",
+    "month": "2027-04",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 306000000,
+    "contribution_cents": -6000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-09",
+    "month": "2027-05",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 303000000,
+    "contribution_cents": -3000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-10",
+    "month": "2027-06",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 300000000,
+    "contribution_cents": 0,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-11",
+    "month": "2027-07",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  },
+  {
+    "allocated_cost_cents": 297000000,
+    "contribution_cents": 3000000,
+    "customer_id": "CUS-0001",
+    "event_id": "EVT-12",
+    "month": "2027-08",
+    "monthly_revenue_cents": 300000000,
+    "note": "Separate scenario projection, not historical booked revenue; cost recovery assumption"
+  }
+]

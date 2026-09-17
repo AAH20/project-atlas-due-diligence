@@ -1,0 +1,79 @@
+{
+  "edges": [
+    {
+      "observed_at": "2026-08-31T12:00:00Z",
+      "relation": "assumes",
+      "source": "SVC-EDGE",
+      "target": "IAM-01"
+    },
+    {
+      "observed_at": "2026-08-31T12:00:00Z",
+      "relation": "can_read",
+      "source": "IAM-01",
+      "target": "STORE-PII"
+    },
+    {
+      "observed_at": "2026-08-31T12:00:00Z",
+      "relation": "trained_on",
+      "source": "MODEL-01",
+      "target": "DATA-01"
+    },
+    {
+      "observed_at": "2026-08-31T12:00:00Z",
+      "relation": "provides",
+      "source": "VEN-02",
+      "target": "LEASE-01"
+    },
+    {
+      "observed_at": "2026-08-31T12:00:00Z",
+      "relation": "depends_on",
+      "source": "CUS-0001",
+      "target": "SVC-EDGE"
+    }
+  ],
+  "inventory_views": {
+    "cmdb": [
+      "SVC-EDGE",
+      "STORE-PII"
+    ],
+    "iam_export": [
+      "IAM-01",
+      "STORE-PII"
+    ],
+    "note": "CMDB alone omits identity dependency. Merge views; do not scan a real network."
+  },
+  "nodes": [
+    {
+      "id": "SVC-EDGE",
+      "kind": "service"
+    },
+    {
+      "id": "IAM-01",
+      "kind": "identity"
+    },
+    {
+      "id": "STORE-PII",
+      "kind": "store"
+    },
+    {
+      "id": "DATA-01",
+      "kind": "dataset"
+    },
+    {
+      "id": "MODEL-01",
+      "kind": "model"
+    },
+    {
+      "id": "VEN-02",
+      "kind": "vendor"
+    },
+    {
+      "id": "LEASE-01",
+      "kind": "lease"
+    },
+    {
+      "id": "CUS-0001",
+      "kind": "customer"
+    }
+  ]
+}

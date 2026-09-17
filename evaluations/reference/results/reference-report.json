@@ -1,0 +1,47 @@
+{
+  "reference": "fixture-specific arithmetic and staged evidence reference; not an LLM or general agent",
+  "outputs": {
+    "arr_cents": 18000000000,
+    "management_arr_cents": 20200000000,
+    "arr_discrepancy_cents": 2200000000,
+    "leased_gpu_count": 1024,
+    "customer_0001_monthly_contribution_cents": -30000000,
+    "clean_arr_discrepancy_cents": 0
+  },
+  "stages": [
+    {
+      "stage": "T0",
+      "vulnerability_status": "open",
+      "customer_consent_status": "request consent",
+      "assessment_scope_gap": "ENT-06 remains unassessed",
+      "data_transfer_consent": "outstanding"
+    },
+    {
+      "stage": "T1",
+      "vulnerability_status": "resolved",
+      "customer_consent_status": "request consent",
+      "assessment_scope_gap": "ENT-06 remains unassessed",
+      "data_transfer_consent": "outstanding"
+    },
+    {
+      "stage": "T2",
+      "vulnerability_status": "resolved",
+      "customer_consent_status": "resolved",
+      "assessment_scope_gap": "ENT-06 remains unassessed",
+      "data_transfer_consent": "outstanding"
+    }
+  ],
+  "runtime_ms": 26.357,
+  "provider_cost_usd": 0,
+  "manual_intervention": "none during execution; rules authored for this public teaching fixture",
+  "scope": "four numeric assertions and two update transitions; no full 14-finding precision/recall claim",
+  "naive_comparator": {
+    "method": "repeat management ARR assertion without reconciliation",
+    "arr_cents": 20200000000,
+    "absolute_error_cents": 2200000000
+  },
+  "checked_ground_truth": {
+    "numeric_matches": true
+  },
+  "release_inputs_sha256": "38b627f5c1c79e779097cd8fcad3314afaa4cb9a9f475cc1c59b36bc212a862b"
+}

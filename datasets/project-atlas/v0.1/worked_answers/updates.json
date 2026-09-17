@@ -1,0 +1,22 @@
+[
+  {
+    "evidence": "vdr/06_security/VULN-v2.md",
+    "finding_id": "VUL-OPEN",
+    "new_status": "resolved",
+    "observed_at": "2026-09-06",
+    "stage": "T1",
+    "unaffected": [
+      "SEC-SCOPE"
+    ]
+  },
+  {
+    "evidence": "vdr/03_commercial/CONSENT-v2.md",
+    "finding_id": "CONSENT-CUSTOMER",
+    "new_status": "resolved",
+    "observed_at": "2026-09-10",
+    "stage": "T2",
+    "unaffected": [
+      "DATA-RIGHTS"
+    ]
+  }
+]

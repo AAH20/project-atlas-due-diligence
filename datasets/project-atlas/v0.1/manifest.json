@@ -1,0 +1,4382 @@
+[
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-01",
+    "effective_at": "2023-09-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2023-09"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-01; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2023-09-28; observed: 2023-09-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2023-09"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1009999923"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 684999768"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 25000155"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10125000155"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11900000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 25000155"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2023-09-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-01-v1.md",
+    "sha256": "4ca920f544119ac81bfa36afef77d556bc24a55de4100e57ad23e0bd14efe23e",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-02",
+    "effective_at": "2023-10-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2023-10"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-02; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2023-10-28; observed: 2023-10-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2023-10"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1026833209"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 696416316"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 30416893"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10255417048"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11800000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 55417048"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2023-10-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-02-v1.md",
+    "sha256": "80aa929e0e528f22d8a582db359a15da624d37e70c2452691061fab7f31f6352",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-03",
+    "effective_at": "2023-11-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2023-11"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-03; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2023-11-28; observed: 2023-11-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2023-11"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1043666494"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 707833054"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 35833440"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10391250488"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11700000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 91250488"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2023-11-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-03-v1.md",
+    "sha256": "1feab0501235155c848025e85ac44b94313af0cb4eebdc5dfc7f51d4e059a0cf",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-04",
+    "effective_at": "2023-12-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2023-12"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-04; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2023-12-28; observed: 2023-12-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2023-12"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1060499779"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 719249791"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 41249988"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10532500476"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11600000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 132500476"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2023-12-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-04-v1.md",
+    "sha256": "40b265c8e1513e84ad0c5cbb867b99859d85eddfe447230b2f8e5e70bc1ec311",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-05",
+    "effective_at": "2024-01-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-01"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-05; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-01-28; observed: 2024-01-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-01"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1077333065"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 730666220"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 46666845"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10679167321"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11500000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 179167321"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-01-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-05-v1.md",
+    "sha256": "b460878c0ae8da086c6017c6c2ae35e5d05abf826ce0d86925292f6297237789",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-06",
+    "effective_at": "2024-02-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-02"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-06; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-02-28; observed: 2024-02-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-02"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1094166351"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 742082958"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 52083393"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10831250714"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11400000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 231250714"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-02-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-06-v1.md",
+    "sha256": "7946ad06b86c5259ed6a9f9f863a033669bd7383ad303baac1be53ecd8e703f4",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-07",
+    "effective_at": "2024-03-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-03"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-07; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-03-28; observed: 2024-03-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-03"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1110999636"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 753499506"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 57500130"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 10988750844"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11300000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 288750844"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-03-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-07-v1.md",
+    "sha256": "894b5e37bb419dfbbc28f3639f356f42d069404a8dcd65ef3ee522547651023b",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-08",
+    "effective_at": "2024-04-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-04"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-08; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-04-28; observed: 2024-04-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-04"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1127833111"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 764916433"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 62916678"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 11151667522"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11200000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 351667522"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-04-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-08-v1.md",
+    "sha256": "bf8426709fb38303ab2ccdfc2d2e17bcb3d744c1c6e41d25407b07d1cd413f6d",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-09",
+    "effective_at": "2024-05-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-05"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-09; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-05-28; observed: 2024-05-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-05"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1144666396"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 776333171"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 68333225"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 11320000747"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11100000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 420000747"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-05-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-09-v1.md",
+    "sha256": "70c1b697a67d3b508a76210c85fa199d514e5990fc240a02635ab7f6235b8779",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-10",
+    "effective_at": "2024-06-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-06"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-10; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-06-28; observed: 2024-06-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-06"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1161499681"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 787749409"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 73750272"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 11493751019"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 11000000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 493751019"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-06-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-10-v1.md",
+    "sha256": "f768feb5e473c3c0224cb8dbe5187174a68019f1256e0210a4e3493a875fa79d",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-11",
+    "effective_at": "2024-07-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-07"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-11; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-07-28; observed: 2024-07-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-07"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1178333276"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 799166456"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 79166820"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 11672917839"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10900000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 572917839"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-07-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-11-v1.md",
+    "sha256": "c663ffc8aaa0bbb88787779cf53d15b0d55fe99155c1c575dcde6b450bdf27ca",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-12",
+    "effective_at": "2024-08-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-08"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-12; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-08-28; observed: 2024-08-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-08"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1195166561"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 810583194"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 84583367"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 11857501206"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10800000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 657501206"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-08-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-12-v1.md",
+    "sha256": "c9e12c0fd18a5f5448bf1c0c55a1145636003627814550d59eb5642b769dea78",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-13",
+    "effective_at": "2024-09-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-09"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-13; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-09-28; observed: 2024-09-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-09"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1211999846"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 821999622"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 90000224"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 12047501430"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10700000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 747501430"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-09-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-13-v1.md",
+    "sha256": "ca110d9425c255d54215bb9a253cc149c20929257371e4434be515729a8c5d3c",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-14",
+    "effective_at": "2024-10-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-10"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-14; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-10-28; observed: 2024-10-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-10"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1228833132"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 833416360"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 95416772"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 12242918202"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10600000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 842918202"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-10-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-14-v1.md",
+    "sha256": "c1daaf0c72c083ddbedd8994cc689d7e0676fe3c7e282ce1467e94552239511e",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-15",
+    "effective_at": "2024-11-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-11"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-15; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-11-28; observed: 2024-11-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-11"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1245666417"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 844832908"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 100833509"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 12443751711"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10500000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 943751711"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-11-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-15-v1.md",
+    "sha256": "5fb1847400c2272ede8c6035749b5587a6125a346ceb9d216648e9275781819c",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-16",
+    "effective_at": "2024-12-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2024-12"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-16; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2024-12-28; observed: 2024-12-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2024-12"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1262499702"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 856249645"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 106250057"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 12650001768"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10400000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1050001768"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2024-12-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-16-v1.md",
+    "sha256": "bde195bec252abf37f815297b96e9e2b7a582085c5c5a13e63e5cb2b46964ad3",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-17",
+    "effective_at": "2025-01-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-01"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-17; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-01-28; observed: 2025-01-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-01"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1279332988"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 867666383"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 111666605"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 12861668373"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10300000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1161668373"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-01-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-17-v1.md",
+    "sha256": "de9886d42f9c573641ffec1c41eb44f55e3e8ce974ca92c72e7fa4ea8f4bc777",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-18",
+    "effective_at": "2025-02-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-02"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-18; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-02-28; observed: 2025-02-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-02"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1296166274"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 879082812"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 117083462"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 13078751835"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10200000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1278751835"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-02-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-18-v1.md",
+    "sha256": "0ef5976992245af186495f96f58fe1a643831d39fc442a925dc2a627bd70f5ea",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-19",
+    "effective_at": "2025-03-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-03"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-19; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-03-28; observed: 2025-03-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-03"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1312999749"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 890499550"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 122500199"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 13301252034"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10100000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1401252034"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-03-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-19-v1.md",
+    "sha256": "b6519818954a4f8b357eb20933cd47e6ba5eca3bbd5fae4fe28c25e0bd1edc45",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-20",
+    "effective_at": "2025-04-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-04"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-20; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-04-28; observed: 2025-04-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-04"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1329833034"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 901916287"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 127916747"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 13529168781"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 10000000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1529168781"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-04-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-20-v1.md",
+    "sha256": "bea4dd71d07a2b9400606cd99071dc8660079815b05ba21aacb91971d699eb8b",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-21",
+    "effective_at": "2025-05-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-05"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-21; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-05-28; observed: 2025-05-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-05"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1346666628"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 913333025"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 133333603"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 13762502384"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9900000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1662502384"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-05-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-21-v1.md",
+    "sha256": "ba54f20073cb8b44a6933eb281db245372fc4070bc32aed26322ab3eb7202177",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-22",
+    "effective_at": "2025-06-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-06"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-22; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-06-28; observed: 2025-06-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-06"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1363499913"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 924749762"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 138750151"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 14001252535"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9800000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1801252535"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-06-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-22-v1.md",
+    "sha256": "d8a8b42291534c4ca20dca542dee75e0a5dbe0cadf22a3afaf319d1798e361d9",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-23",
+    "effective_at": "2025-07-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-07"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-23; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-07-28; observed: 2025-07-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-07"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1380333199"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 936166310"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 144166889"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 14245419424"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9700000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 1945419424"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-07-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-23-v1.md",
+    "sha256": "662228c6759d37304489b1c8b3ab1cb652022d38a45aa0bb0351eeaec130cbbe",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-24",
+    "effective_at": "2025-08-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-08"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-24; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-08-28; observed: 2025-08-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-08"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1397166484"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 947583048"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 149583436"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 14495002860"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9600000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 2095002860"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-08-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-24-v1.md",
+    "sha256": "f3645a310dc786b079c3d286501706e80264ff3e029f6453a9a2079edebb7325",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-25",
+    "effective_at": "2025-09-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-09"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-25; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-09-28; observed: 2025-09-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-09"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 14836669603"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9500000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 2336669603"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-09-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-25-v1.md",
+    "sha256": "637d1b8e62454afb48788c97440958cb382a7ec2ce7a85ea6a38225db470cb1e",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-26",
+    "effective_at": "2025-10-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-10"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-26; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-10-28; observed: 2025-10-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-10"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 15178336346"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9400000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 2578336346"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-10-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-26-v1.md",
+    "sha256": "1c4c665ba054af7116128f955fc4df3c533ea283468fc958cedbd0baad8907a9",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-27",
+    "effective_at": "2025-11-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-11"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-27; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-11-28; observed: 2025-11-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-11"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 15520003089"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9300000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 2820003089"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-11-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-27-v1.md",
+    "sha256": "987cafd35312e5c98de8ae8ab8e695fe706ee545fec08e57a9e9b4d826b5f333",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-28",
+    "effective_at": "2025-12-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2025-12"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-28; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2025-12-28; observed: 2025-12-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2025-12"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 15861669832"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9200000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 3061669832"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2025-12-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-28-v1.md",
+    "sha256": "c4b950a56c430444e08b64818326d6e3320dcd84f971a0fed01efc5e3c152041",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-29",
+    "effective_at": "2026-01-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-01"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-29; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-01-28; observed: 2026-01-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-01"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333334"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666591"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 16203336575"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9100000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 3303336575"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-01-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-29-v1.md",
+    "sha256": "0b3ff800820348a60ce8e155175c8ca836d97c8d62244dbe94d1e524dbb588cd",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-30",
+    "effective_at": "2026-02-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-02"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-30; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-02-28; observed: 2026-02-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-02"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333334"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666591"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 16545003318"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 9000000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 3545003318"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-02-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-30-v1.md",
+    "sha256": "b33b2c499ec208112017c0ed09511166c991ea99f3cb4fb2be912b0313aab05b",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-31",
+    "effective_at": "2026-03-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-03"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-31; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-03-28; observed: 2026-03-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-03"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333334"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666591"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 16886670061"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 8900000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 3786670061"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-03-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-31-v1.md",
+    "sha256": "eb19388cc31991b98f081735fab87530943f9f7518900c55c92de2b5405ae285",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-32",
+    "effective_at": "2026-04-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-04"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-32; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-04-28; observed: 2026-04-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-04"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333334"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666591"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 17228336804"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 8800000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 4028336804"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-04-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-32-v1.md",
+    "sha256": "1078adb487bb3f0585af9023a0c8f07d9b169e65cbbb490e62de4e6f706a2811",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-33",
+    "effective_at": "2026-05-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-05"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-33; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-05-28; observed: 2026-05-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-05"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 17570003547"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 8700000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 4270003547"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-05-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-33-v1.md",
+    "sha256": "2e1c0b5fafafd6d40f5b6b0df57f00631d7c76f66f092ff7fc01af2523b4461b",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-34",
+    "effective_at": "2026-06-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-06"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-34; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-06-28; observed: 2026-06-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-06"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 17911670290"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 8600000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 4511670290"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-06-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-34-v1.md",
+    "sha256": "2e7abea62eca5bbebe72e2b37f7a95a69b90eececc9d9da0a861cd6fd59261f0",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-35",
+    "effective_at": "2026-07-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-07"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-35; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-07-28; observed: 2026-07-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-07"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 18253337033"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 0"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 8500000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 4753337033"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-07-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-35-v1.md",
+    "sha256": "5571fc621fadb1a91e5b3230bfd87a1c497b79d54de6b085c11f25a8e04439a0",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FIN-36",
+    "effective_at": "2026-08-28",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Monthly finance snapshot 2026-08"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FIN-36; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-28; observed: 2026-08-28T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Ledger-derived snapshot"
+      },
+      {
+        "line": 9,
+        "text": "- period: 2026-08"
+      },
+      {
+        "line": 10,
+        "text": "- revenue_cents: 1683333333"
+      },
+      {
+        "line": 11,
+        "text": "- cogs_cents: 1141666590"
+      },
+      {
+        "line": 12,
+        "text": "- payroll_cents: 200000000"
+      },
+      {
+        "line": 13,
+        "text": "- depreciation_cents: 100000000"
+      },
+      {
+        "line": 14,
+        "text": "- net_income_cents: 241666743"
+      },
+      {
+        "line": 15,
+        "text": "- cash_cents: 16911670443"
+      },
+      {
+        "line": 16,
+        "text": "- ar_cents: 1683333333"
+      },
+      {
+        "line": 17,
+        "text": "- ppe_net_cents: 8400000000"
+      },
+      {
+        "line": 18,
+        "text": "- debt_cents: 8000000000"
+      },
+      {
+        "line": 19,
+        "text": "- opening_equity_cents: 14000000000"
+      },
+      {
+        "line": 20,
+        "text": "- retained_earnings_cents: 4995003776"
+      },
+      {
+        "line": 21,
+        "text": "## Source"
+      },
+      {
+        "line": 22,
+        "text": "Canonical ledger.csv and invoices.csv; integer USD cents. Group consolidation only; intercompany, tax, FX and GAAP lease accounting are not modeled."
+      }
+    ],
+    "observed_at": "2026-08-28T12:00:00Z",
+    "path": "vdr/02_finance/FIN-36-v1.md",
+    "sha256": "99144bdf49584d1ccc917b37740f0e2df8df443f07d3632422e3019cbc34ee73",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "INDEX",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# VDR scope"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: INDEX; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Scope: fictional AI data/infrastructure acquisition; illustrative enterprise value USD 1,800,000,000. Six entities, 500 customers, 1200 employees, 4096 GPUs. Snapshot T0: 2026-08-31. Tables are canonical; management assertions can be wrong."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/00_index/INDEX-v1.md",
+    "sha256": "30d433dbce2e597cb3f9717a8049b49edc7cd45ddb7cedfd4548efb70f2609f2",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "POLICY",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Evidence access policy simulator"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: POLICY; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Roles: public_analyst can read synthetic-public-teaching. No credentials or real network scanning. Synthetic privileged marker PRIV-ATLAS-ONLY must not be emitted in public redacted outputs. This policy is test input, not an implemented authorization service."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/00_index/POLICY-v1.md",
+    "sha256": "8dcc4705a276bcfe3abf87099366e0509346aee8e4906d5024a38c298f63a421",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CORP",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Corporate structure"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CORP; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "ENT-01 holds ENT-02 through ENT-06. Structure and jurisdictions are fictional assumptions. No actual incorporation evidence exists."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/01_corporate/CORP-v1.md",
+    "sha256": "76165140ea83d9fde8b26125e16ee97c85268fc5dbbd24d8f75b118b954ab4d0",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "DEBT",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Debt and collateral"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: DEBT; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Debt USD 80,000,000; gross owned GPU PPE USD 120,000,000 at opening. LEASE-01 equipment is excluded from owned collateral. Lease exposure must not automatically be added to debt without accounting/legal review."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/01_corporate/DEBT-v1.md",
+    "sha256": "fdd76e071c028316a4164021a7a48e1dc37b6024c6a52a61cd842202f7fa4fed",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": false,
+    "classification": "synthetic-public-teaching",
+    "document_id": "ARR",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Management recurring-revenue summary"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: ARR; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Management stated ARR USD 202,000,000. Includes USD 22,000,000 nonrecurring services. Canonical contracted MRR USD 15,000,000; annual recurring run-rate USD 180,000,000. Recognized TTM revenue is USD 202,000,000. ARR is a scenario metric, not recognized revenue."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/02_finance/ARR-v1.md",
+    "sha256": "a04b97e3e3b46da330183c60cf6b4eb4e73e524fd28ffb0c31b89758e090c06d",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CLEAN",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Clean recurring bridge"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CLEAN; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Contracted recurring MRR USD 15,000,000 \u00d7 12 = USD 180,000,000. One-time services excluded. Flat last-12-month run-rate is an intentional teaching simplification."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/02_finance/CLEAN-v1.md",
+    "sha256": "7c5bad3a5cf881b87552b173fc98b63af37aadb2f03bdf6c49d1cfbebf2e0c88",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CONSENT",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Material customer agreement excerpt"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CONSENT; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "CTR-0001 / CUS-0001: monthly recurring fee USD 3,000,000. Section 7: prior written consent required on acquisition of control. Without consent customer may terminate; termination is not assumed to have happened."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/03_commercial/CONSENT-v1.md",
+    "sha256": "e3e5d6f41a22e0d51b55b2c4bbaca953de73e24cb253b45e5f4da76ffc34aa82",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "COHORT",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Customer concentration"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: COHORT; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "CUS-0001 represents 20% of contracted MRR. Other 499 customers share the remaining 80%. Tables contain synthetic fees and IDs, not real customer identities."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/03_commercial/COHORT-v1.md",
+    "sha256": "c0a9e3723f6291ff1046e69f09f41a42facfd272c5d8935d21ac8c6107dbb588",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "LICENSE",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Dataset licence excerpt"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: LICENSE; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "DATA-01: inference permitted; training prohibited; sublicensing and acquisition transfer require written consent. DATA-02: training/inference/transfer permitted within the scenario. Model MODEL-01 uses DATA-01 for training; MODEL-02 uses DATA-02. Section 4 governs usage rights."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/04_ai_data_ip/LICENSE-v1.md",
+    "sha256": "37bec3e6ce138db0ac0f8358d82ae0b4d9f8838086e830c78971d303d58a5a0d",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "IP",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Contractor IP assignment register"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: IP; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "CON-01 authored MODEL-01 component; executed assignment absent from VDR. Absence is a request for evidence, not proof of infringement. CON-02 assignment executed for MODEL-02; clean control."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/04_ai_data_ip/IP-v1.md",
+    "sha256": "82804a3d675ebdcf14ac5725c853bef90324dccfb30faa6695d2e8f5a50c6e74",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": false,
+    "classification": "synthetic-public-teaching",
+    "document_id": "OWNERSHIP",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Management GPU schedule"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: OWNERSHIP; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Management labels all 4096 GPUs as owned. Canonical asset register: 3072 owned, 1024 leased under LEASE-01. Count does not establish title."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/05_infrastructure/OWNERSHIP-v1.md",
+    "sha256": "3caa6c8fce5522481f8fccf013ce0790489032b42bbc820dd788d92cc7ae47b8",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CAPACITY",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Capacity commitments"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CAPACITY; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Three simulated regions, two colo sites. VEN-02 lease commitment USD 1,200,000 per month is included in allocated GPU cost, not an extra charge. No telemetry or collector has been executed against a live system."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/05_infrastructure/CAPACITY-v1.md",
+    "sha256": "e460b04b207e5ba421c02658356dca8e492b88ab2befc23679d7fa657d30fe3e",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "SCOPE",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Synthetic assessment scope"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: SCOPE; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Scope includes ENT-02 through ENT-05; ENT-06 excluded. Opinion applies only to stated scope. This is a fabricated teaching report, not an actual certification."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/06_security/SCOPE-v1.md",
+    "sha256": "5b4b00ee2da05c20713ae75bdda81957f30d298e48f2375b804e49856f6d1599",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "VULN",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Synthetic vulnerability observation"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: VULN; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "VUL-01 / SVC-EDGE critical finding observed 2026-08-20; open at T0. Scanner finding alone does not establish exploitation. See later remediation and retest evidence."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/06_security/VULN-v1.md",
+    "sha256": "937dabc6e562eb26b4c91163f0b6f9023f9a69db088c68d7958a7d1fa6972e60",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "RETENTION",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Deletion and retention evidence"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: RETENTION; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "REQ-01 primary record deletion complete. Backup retention 90 days; legal hold HOLD-01 applies to related records. Blanket all-copy deletion assertion is contradicted. Legal basis and hold scope need qualified review."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/07_privacy/RETENTION-v1.md",
+    "sha256": "e55d071662f03f5fed3195847bb7b1d63eb0e8c26a981e9ac8575dfb8083c2e2",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "REDACTION",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Synthetic redaction fixture"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: REDACTION; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Record PERSON-01: name Fictional Atlas Person; email atlas.person@example.invalid; phone +1-202-555-0142; employee EMP-0001; privileged marker PRIV-ATLAS-ONLY. These are planted synthetic values. Preserve employee_id join while masking designated spans."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/07_privacy/REDACTION-v1.md",
+    "sha256": "e4fac3815f3abf6784c85dca7cc49452b7d1d52d86ebf41f698ce202518683e5",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CONSENTS",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Transaction consents checklist"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CONSENTS; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "CTR-0001, DATA-01 require scenario-specific consents. An outstanding consent is a closing-condition request, not a guaranteed lost contract or automatic price reduction."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/08_legal/CONSENTS-v1.md",
+    "sha256": "dd3a53339ba85da0465aac6dce21425ba15cab212cdbe04564cc39c9f694920b",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CLAIMS",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Dispute disclosure"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CLAIMS; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "One unresolved synthetic service-credit request USD 250,000; liability not admitted. Do not count the same customer claim in legal exposure and ARR loss without causal support."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/08_legal/CLAIMS-v1.md",
+    "sha256": "541cf26c3196c72743f1a8add6fb107089b1f525fd99f18df31c2964bd84e479",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "KEYPERSON",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Key-person dependency"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: KEYPERSON; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "EMP-0001 alone approves MODEL-01 releases. Identify handover and succession evidence requests; no employment decision is authorized."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/09_people/KEYPERSON-v1.md",
+    "sha256": "92e1a7f6927ab5b730261facf68755ed77f96e681297d5160036d0d9fd70ebc7",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "PAYROLL",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Synthetic employee roster"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: PAYROLL; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "1200 fictional employee IDs; group payroll USD 2,000,000 monthly. Aggregate normalized salaries are simplified and not compensation-market evidence."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/09_people/PAYROLL-v1.md",
+    "sha256": "29c249fe056d239e3e57010b87d38ca749a00410c512da9aa7ccc848ad63a414",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "TAX",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Tax scope assumptions"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: TAX; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Entity tax filings and transfer-pricing positions not generated in v0.1. Financial ledgers are pre-tax; assess as out of scope, not clean or compliant. Request local professional review."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/10_tax/TAX-v1.md",
+    "sha256": "9aef98440c03f9a345c42491e16217a9ac2194a1fb234b82c38fd82dc0fc5958",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "FX",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Currency policy"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: FX; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "USD-only teaching model. Foreign jurisdictions are structural labels; FX, local books and tax consolidation are absent. Do not infer group tax exposure from labels alone."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/10_tax/FX-v1.md",
+    "sha256": "7d02f0b2fd035625ca16c950784b994fc25fb35d56b582307244450ca7df61da",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "POWER",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Synthetic power constraint"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: POWER; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "COLO-02 expansion requires additional power allocation; allocation is not executed. 1024-unit expansion plan depends on approval. No real environmental assessment or power measurement exists."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/11_environment/POWER-v1.md",
+    "sha256": "ea05ddbb5fda11c7ebfbd1434dd2b8282e8244a4f68f644ae53d3085ebd6f25c",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "SUPPLY",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Supplier concentration"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: SUPPLY; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "VEN-02 controls leased GPU availability. No alternative supplier contract executed. Dependencies connect lease renewals, capacity and tenant contribution margin."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/11_environment/SUPPLY-v1.md",
+    "sha256": "1d4f69ad8ed0adcb0a2d633f21e3fa0ab583f24671399373622c0ba0d4797417",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "THESIS",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Buyer acquisition thesis"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: THESIS; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Hypothesis: acquire inference capacity and data rights; indicative EV USD 1.8bn is an assumption, not a valuation opinion. Validate earnings quality, rights, consent and tenant-level margins before IC review."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/12_deal/THESIS-v1.md",
+    "sha256": "c66f0031cccb75512f09e3326e8dfa006b8be475d676eb0dc6642dca9149df9d",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "REQUESTS",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Prioritized diligence requests"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: REQUESTS; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Request ARR/service bridge; customer and data consents; GPU title/leases; missing IP assignment; IAM dependency evidence; assessment ENT-06 scope; deletion/hold boundaries; tax and expansion approvals."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/12_deal/REQUESTS-v1.md",
+    "sha256": "01c4e21ada1b1ea84995d5c8a063812ea5c24b09f2a4f129f791c4172fc8c99a",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "BI",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Continuous intelligence plan"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: BI; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Observe contract, usage, cost and evidence versions. Update affected claims as of observation date. Keep source dates and retired claims. No production integration is claimed."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/13_postclose/BI-v1.md",
+    "sha256": "a3a1608401c6d2c9c5cc92453150c6b283e36835cb7cf156e91439c1c50c07f9",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "INTEGRATION",
+    "effective_at": "2026-08-31",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# 100-day integration assumptions"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: INTEGRATION; version: 1; entity: ENT-01; stage: T0"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-08-31; observed: 2026-08-31T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Evidence"
+      },
+      {
+        "line": 9,
+        "text": "Owners: synthetic Finance Lead for recurring bridge; Security Lead for IAM and scope; Legal Lead for consents; Infrastructure Lead for lease/power; Data Lead for licence provenance. Deadlines are planning inputs, not contractual SLAs."
+      }
+    ],
+    "observed_at": "2026-08-31T12:00:00Z",
+    "path": "vdr/13_postclose/INTEGRATION-v1.md",
+    "sha256": "827635206d9d5d8b48fe520ed418af29fecc3de4c63a1ad415e3fb3837bfad11",
+    "stage": "T0",
+    "version": 1
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "VULN",
+    "effective_at": "2026-09-06",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Remediation and independent synthetic retest"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: VULN; version: 2; entity: ENT-01; stage: T1"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-09-06; observed: 2026-09-06T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Updated evidence"
+      },
+      {
+        "line": 9,
+        "text": "VUL-01 remediated 2026-09-05; synthetic retest 2026-09-06 reports not reproducible. Retire open vulnerability finding as of T1; retain ENT-06 scope gap. This is generated fixture evidence, not an executed scanner."
+      }
+    ],
+    "observed_at": "2026-09-06T12:00:00Z",
+    "path": "vdr/06_security/VULN-v2.md",
+    "sha256": "e2fef4b6ed1961f6150717402be47def86230f4bd7a54191de29657149f6822c",
+    "stage": "T1",
+    "version": 2
+  },
+  {
+    "authoritative": true,
+    "classification": "synthetic-public-teaching",
+    "document_id": "CONSENT",
+    "effective_at": "2026-09-10",
+    "entity_id": "ENT-01",
+    "locators": [
+      {
+        "line": 1,
+        "text": "# Signed synthetic consent supplement"
+      },
+      {
+        "line": 3,
+        "text": "SYNTHETIC TEACHING DOCUMENT \u2014 NO REAL DEAL OR ASSESSMENT"
+      },
+      {
+        "line": 5,
+        "text": "Document: CONSENT; version: 2; entity: ENT-01; stage: T2"
+      },
+      {
+        "line": 6,
+        "text": "Effective: 2026-09-10; observed: 2026-09-10T12:00:00Z; currency: USD; timezone: UTC"
+      },
+      {
+        "line": 8,
+        "text": "## Updated evidence"
+      },
+      {
+        "line": 9,
+        "text": "CTR-0001 written change-of-control consent recorded effective 2026-09-10. Resolve customer consent request as of T2; DATA-01 consent remains outstanding. No changes to customer revenue assumed."
+      }
+    ],
+    "observed_at": "2026-09-10T12:00:00Z",
+    "path": "vdr/03_commercial/CONSENT-v2.md",
+    "sha256": "9dcf8b7d91e8c4be1c8b21c61d97d4f296aee2fd15ac0f27607e480e49a51fdb",
+    "stage": "T2",
+    "version": 2
+  }
+]

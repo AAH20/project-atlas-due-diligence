@@ -1,0 +1,18 @@
+{
+  "dates": "UTC; month period YYYY-MM; finance effective day 28 is cutoff label, not transaction date",
+  "joins": [
+    "customer_id -> customers/allocations/invoices",
+    "contract_id -> contracts",
+    "invoice_id -> cash_receipts",
+    "entity_id -> entities",
+    "journal_id -> paired ledger entries"
+  ],
+  "limitations": [
+    "group-only book; no local entity statements",
+    "no tax, FX, interest, working-capital aging, GAAP leases or intercompany",
+    "monthly service obligations recognized when delivered; cash timing simplified",
+    "1200 employees; uniform salary, synthetic roles",
+    "no executed collectors, OCR scans, LLM agents, real assessments or legal opinions"
+  ],
+  "money": "integer USD cents; signed ledger positive debit, negative credit"
+}

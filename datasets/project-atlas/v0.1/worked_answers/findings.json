@@ -1,0 +1,266 @@
+[
+  {
+    "calculation": {
+      "expected_cents": 2200000000,
+      "formula": "20200000000 - 18000000000"
+    },
+    "claim": "management ARR overstates recurring run-rate by services",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "finance",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/02_finance/ARR-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "ARR-MISCLASS",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Request recognized-to-recurring bridge",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {
+      "annual_contract_cents": 3600000000
+    },
+    "claim": "material customer consent needed; loss not established",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "commercial/legal",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/03_commercial/CONSENT-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "CONSENT-CUSTOMER",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Obtain written consent",
+    "stage": "T0",
+    "status": "unresolved"
+  },
+  {
+    "calculation": {
+      "leased_count": 1024
+    },
+    "claim": "1024 leased GPUs mislabeled as owned",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "infrastructure/legal",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/05_infrastructure/OWNERSHIP-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "GPU-TITLE",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Reconcile title and lease register",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {},
+    "claim": "MODEL-01 training conflicts with DATA-01 licence fixture",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "AI/IP",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/04_ai_data_ip/LICENSE-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "DATA-RIGHTS",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Obtain licence amendment or change training input",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {},
+    "claim": "assignment missing; infringement not established",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "AI/legal",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/04_ai_data_ip/IP-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "IP-ABSENT",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Request executed assignment",
+    "stage": "T0",
+    "status": "unresolved"
+  },
+  {
+    "calculation": {},
+    "claim": "ENT-06 excluded from assessment",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "cyber",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/06_security/SCOPE-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "SEC-SCOPE",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Request scoped assessment evidence",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {},
+    "claim": "critical finding open at T0; revise using T1",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "cyber",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/06_security/VULN-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "VUL-OPEN",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Obtain remediation retest",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {},
+    "claim": "primary deletion is not all-copy deletion",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "privacy/legal",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/07_privacy/RETENTION-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "DELETE-CONFLICT",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Clarify hold and backup scope",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {
+      "expected_cents": -30000000,
+      "formula": "300000000 - 330000000"
+    },
+    "claim": "CUS-0001 monthly allocated contribution is negative",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "finance/infrastructure",
+    "evidence": [
+      {
+        "line": 22,
+        "path": "vdr/02_finance/FIN-36-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "TENANT-MARGIN",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Review contract pricing and cost allocation",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {},
+    "claim": "CMDB misses privileged identity dependency",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "cyber/infrastructure",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/05_infrastructure/CAPACITY-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "NETWORK-GAP",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Merge dependency_graph inventory views",
+    "stage": "T0",
+    "status": "supported"
+  },
+  {
+    "calculation": {},
+    "claim": "expansion power allocation unexecuted",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "infrastructure/environment",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/11_environment/POWER-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "POWER-DEPENDENCY",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Request allocation approval",
+    "stage": "T0",
+    "status": "unresolved"
+  },
+  {
+    "calculation": {
+      "expected_cents": 0
+    },
+    "claim": "no recurring bridge discrepancy in clean control",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "finance",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/02_finance/CLEAN-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "CLEAN-ARR",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "No false-positive ARR finding",
+    "stage": "T0",
+    "status": "not_applicable"
+  },
+  {
+    "calculation": {},
+    "claim": "DATA-02 training and transfer permitted in fixture",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "AI/IP",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/04_ai_data_ip/LICENSE-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "CLEAN-RIGHTS",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "No rights violation for MODEL-02",
+    "stage": "T0",
+    "status": "not_applicable"
+  },
+  {
+    "calculation": {},
+    "claim": "tax evidence insufficient, not a compliance pass",
+    "confidence": "fixture-supported; no real-world probability",
+    "domain": "tax",
+    "evidence": [
+      {
+        "line": 9,
+        "path": "vdr/10_tax/TAX-v1.md",
+        "version": 1
+      }
+    ],
+    "finding_id": "TAX-SCOPE",
+    "human_review": "Qualified domain reviewer; not an autonomous acquisition decision",
+    "next_request": "Request local tax evidence",
+    "stage": "T0",
+    "status": "unresolved"
+  }
+]

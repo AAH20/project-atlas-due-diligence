@@ -1,0 +1,13 @@
+{
+  "fixture": "vdr/07_privacy/REDACTION-v1.md",
+  "mask": [
+    "Fictional Atlas Person",
+    "atlas.person@example.invalid",
+    "+1-202-555-0142",
+    "PRIV-ATLAS-ONLY"
+  ],
+  "note": "Masking fixture spans is pseudonymization/redaction, not guaranteed anonymization.",
+  "preserve": [
+    "EMP-0001"
+  ]
+}
