@@ -31,7 +31,7 @@
       "data_transfer_consent": "outstanding"
     }
   ],
-  "runtime_ms": 26.357,
+  "runtime_ms": 26.241,
   "provider_cost_usd": 0,
   "manual_intervention": "none during execution; rules authored for this public teaching fixture",
   "scope": "four numeric assertions and two update transitions; no full 14-finding precision/recall claim",
@@ -43,5 +43,5 @@
   "checked_ground_truth": {
     "numeric_matches": true
   },
-  "release_inputs_sha256": "38b627f5c1c79e779097cd8fcad3314afaa4cb9a9f475cc1c59b36bc212a862b"
+  "release_inputs_sha256": "f862a709ac6f24b9f1fbc2e90e13ac91fa50062e4c9f719bd02177960eb771c3"
 }

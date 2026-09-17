@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "deterministic_archive_sha256": "c4d586e606b9649035517c3b0161915db5704300e420c174351cdb8e976b9630",
+  "deterministic_archive_sha256": "5200b064ae1a7f691ef0176de60fe325fd55bb9ff37ade408354a6eff71741d8",
   "corrupt_journal_rejected": true,
   "automated_validation": {
     "status": "PASS",

@@ -4,7 +4,7 @@ A reproducible **v0.1 teaching preview** for a fictional large AI data/infrastru
 
 **Join the [Frontier Due Diligence Challenge — Season 1](https://www.kaggle.com/competitions/frontier-due-diligence-challenge-season-1)**: choose a track, compare a documented baseline on material, clean/control and evidence-update cases, and submit a reproducible Kaggle Writeup by **October 17, 2026 at 23:59 UTC**. Free, kudos-only; no cash prizes, Kaggle points/medals or guaranteed investor review/contracts. This dataset is optional; the published rubric stays unchanged.
 
-[Download on Kaggle](https://www.kaggle.com/datasets/ahmedalaahassan/project-atlas-synthetic-ma-due-diligence-vdr) · [Workflow 3 public walkthrough](https://www.youtube.com/watch?v=0a11vE7aYSA) · [Investor OS public demo](https://investor-os.vercel.app) · [Public diligence-agent baseline](https://github.com/AAH20/A2Z_due-diligence-agents)
+[Download on Kaggle](https://www.kaggle.com/datasets/ahmedalaahassan/project-atlas-synthetic-m-and-a-due-diligence-vdr) · [Workflow 3 public walkthrough](https://www.youtube.com/watch?v=0a11vE7aYSA) · [Investor OS public demo](https://investor-os.vercel.app) · [Public diligence-agent baseline](https://github.com/AAH20/A2Z_due-diligence-agents)
 
 ## Contents
 
