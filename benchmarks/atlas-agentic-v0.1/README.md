@@ -4,6 +4,10 @@ By Apex Growth Systems LLC. Nine public synthetic arithmetic/evidence cases acro
 
 This pilot is separate from the [Season 1 competition](https://www.kaggle.com/competitions/frontier-due-diligence-challenge-season-1). Its rubric, required artifacts and awards are unchanged. Public answers prevent blind evaluation. No institutional realism, official Game Arena acceptance or frontier performance claim is made.
 
+## Published Kaggle pilot
+
+[Public suite](https://www.kaggle.com/benchmarks/ahmedalaahassan/atlas-agentic-due-diligence-development-pilot) · [Evidence task](https://www.kaggle.com/benchmarks/tasks/ahmedalaahassan/atlas-evidence-json-pilot) · [Staged task](https://www.kaggle.com/benchmarks/tasks/ahmedalaahassan/atlas-staged-investigation-pilot). Published 2026-09-18: two tasks, one model, Gemini 3.7 Flash 1.00 on each task. The evidence task was updated to v3 after separating notebooks; staged task is v1. These are development diagnostics, not official Game Arena rankings.
+
 ## Reproduce
 
 ```sh
@@ -24,9 +28,9 @@ Kaggle task scores are case pass fractions, not the proposed institutional weigh
 
 ## Kaggle deployment
 
-Create a task notebook at https://www.kaggle.com/benchmarks/tasks/new. Place `pilot.py` and `kaggle_task.py` in its import path. Import `atlas_evidence` / `atlas_dynamic`; explicitly run each with a supported model. Inspect `list(kbench.llms.keys())` first. Retain all failed runs and output artifacts. Record SDK version and corpus hash, then publish the tested tasks and assemble them in a benchmark using Kaggle's UI. Engineering candidate execution belongs in a separately reviewed sandbox, not this notebook's unrestricted interpreter.
+Create a task notebook at https://www.kaggle.com/benchmarks/tasks/new. Import `kaggle-evidence.ipynb` or `kaggle-dynamic.ipynb` from its public GitHub raw URL; each contains exactly one decorated task and invokes it. Kaggle publishes one task per notebook. The original combined `kaggle-pilot.ipynb` is retained as a development example, not the publication recipe. Alternatively place `pilot.py` and `kaggle_task.py` in its import path and explicitly select a single task. Inspect `list(kbench.llms.keys())` first. Retain all failed runs and output artifacts. Record SDK version and corpus hash, then publish the tested tasks and assemble them in a benchmark using Kaggle's UI. Engineering candidate execution belongs in a separately reviewed sandbox, not this notebook's unrestricted interpreter.
 
-Evidence SDK integration was run live on Kaggle with Gemini 3.7 Flash: strict JSON fence parsing corrected an initial parser-induced 0/9 to 9/9 on one run. This is a simple public-case diagnostic, not a comparative leaderboard. Local tests use no providers. The initial pilot uses sequential prompts in one task chat; isolate case chats and freeze the context policy before model comparisons. Quotas/model access and publication must be verified in the account. No credentials are included.
+Evidence SDK integration was run live on Kaggle with Gemini 3.7 Flash: strict JSON fence parsing corrected an initial parser-induced 0/9 to 9/9 on one run. This is a simple public-case diagnostic, not a comparative leaderboard. Local tests use no providers. The initial pilot uses sequential prompts in one task chat; isolate case chats and freeze the context policy before model comparisons. Both tasks and the suite were built and public visibility verified in the account; model availability and quotas may change. No credentials are included.
 
 ## Next gate
 
